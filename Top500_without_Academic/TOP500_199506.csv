@@ -1,0 +1,364 @@
+Rank,Site,Manufacturer,Computer,Country,Year,Processors,RMax,RPeak,Nmax,Nhalf,Processor Family,Processor,Proc. Frequency,System Family,Operating System,Architecture,Segment,Application Area,Interconnect Family,Interconnect,Region,Continent
+1,National Aerospace Laboratory of Japan,Fujitsu,Numerical Wind Tunnel,Japan,1993,140,170.0,235.79,42000,13800,Fujitsu,Fujitsu,105.3,Fujitsu VPP,UXP/V,MPP,Research,Aerospace,Crossbar,Full distributed crossbar,Eastern Asia,Asia
+2,Sandia National Laboratories,Intel,XP/S140,United States,1993,3680,143.4,184.0,55700,20500,Intel i860,Intel i860 Intel 80860,50.0,intel Paragon,OSF/1,MPP,Research,Not Specified,,2-D mesh (torus),North America,Americas
+3,Oak Ridge National Laboratory,Intel,XP/S-MP 150,United States,1995,3072,127.1,154.0,86000,17800,Intel i860,Intel i860 Intel 80860,50.0,intel Paragon,OSF/1,MPP,Research,Not Specified,,2-D mesh (torus),North America,Americas
+4,Government,Cray Inc.,T3D MC1024-8,United States,1994,1024,100.5,153.6,81920,10224,Alpha,Alpha EV4,149.9,Cray T3E/T3D,UNICOS,MPP,Classified,Not Specified,Cray Interconnect,3-D Torus,North America,Americas
+5,National Lab. for High Energy Physics,Fujitsu,VPP500/80,Japan,1994,80,98.9,128.0,32640,10050,Fujitsu,Fujitsu,100.0,Fujitsu VPP,UXP/V,MPP,Research,Not Specified,Crossbar,Full distributed crossbar,Eastern Asia,Asia
+6,Los Alamos National Laboratory,Thinking Machines Corporation,CM-5/1056,United States,1993,1056,59.7,135.17,52224,24064,Sparc,SuperSPARC I,32.0,TMC CM5,CMOST,MPP,Research,Not Specified,Fat Tree,"Hypercube, tree",North America,Americas
+7,Japan Atomic Energy Research Institute,Fujitsu,VPP500/42,Japan,1994,42,54.5,67.2,0,0,Fujitsu,Fujitsu,100.0,Fujitsu VPP,UXP/V,MPP,Research,Not Specified,Crossbar,Full distributed crossbar,Eastern Asia,Asia
+8,Minnesota Supercomputer Center,Thinking Machines Corporation,CM-5/896,United States,1994,896,52.3,114.7,0,0,Sparc,SuperSPARC I,32.0,TMC CM5,CMOST,MPP,Industry,Not Specified,Fat Tree,"Hypercube, tree",North America,Americas
+9,Los Alamos National Laboratory,Cray Inc.,T3D MC512-8,United States,1994,512,50.8,76.8,57856,7136,Alpha,Alpha EV4,149.9,Cray T3E/T3D,UNICOS,MPP,Research,Not Specified,Cray Interconnect,3-D Torus,North America,Americas
+12,Maui High-Performance Computing Center (MHPCC),IBM,SP2/400,United States,1994,400,44.2,106.4,53000,13500,Power,POWER2,66.5,IBM SP,AIX,MPP,Research,Not Specified,,,North America,Americas
+13,IBM,IBM,SP2/256,United States,1995,256,44.2,68.09,53000,13500,Power,POWER2,66.5,IBM SP,AIX,MPP,Vendor,Not Specified,,,North America,Americas
+14,The Angstrom Technology Partnership,Fujitsu,VPP500/30,Japan,1993,30,39.8,48.0,0,0,Fujitsu,Fujitsu,100.0,Fujitsu VPP,UXP/V,MPP,Research,Not Specified,Crossbar,Full distributed crossbar,Eastern Asia,Asia
+15,University of Tsukuba,Fujitsu,VPP500/30,Japan,1993,30,39.8,48.0,0,0,Fujitsu,Fujitsu,100.0,Fujitsu VPP,UXP/V,MPP,Research,Not Specified,Crossbar,Full distributed crossbar,Eastern Asia,Asia
+16,Institute of Physical and Chemical Res. (RIKEN),Fujitsu,VPP500/28,Japan,1993,28,37.2,44.8,0,0,Fujitsu,Fujitsu,100.0,Fujitsu VPP,UXP/V,MPP,Research,Not Specified,Crossbar,Full distributed crossbar,Eastern Asia,Asia
+17,Air Force Research Laboratory/Information Director,Intel,XP/S-MP 41,United States,1995,816,33.7,40.8,0,0,Intel i860,Intel i860 Intel 80860,50.0,intel Paragon,OSF/1,MPP,Research,Not Specified,,2-D mesh (torus),North America,Americas
+20,National Security Agency,Thinking Machines Corporation,CM-5/512,United States,1993,512,30.4,65.54,36864,16384,Sparc,SuperSPARC I,32.0,TMC CM5,CMOST,MPP,Classified,Not Specified,Fat Tree,"Hypercube, tree",North America,Americas
+21,NASA/Ames Research Center/NAS,IBM,SP2/160,United States,1994,160,28.7,42.56,42200,10300,Power,POWER2,66.5,IBM SP,AIX,MPP,Research,Not Specified,,,North America,Americas
+22,Hitachi Ltd. Enterprise Server Division,Hitachi,S-3800/480,Japan,1994,4,28.4,32.0,15500,830,Hitachi,Hitachi,500.0,Hitachi Vector,VOS3/HAP/ES (IBM MVS compatible) and OSF/1,SMP,Vendor,Software,,,Eastern Asia,Asia
+25,Cray Research,Cray Inc.,T3D MC256-8,United States,1994,256,25.3,38.4,40960,4918,Alpha,Alpha EV4,149.9,Cray T3E/T3D,UNICOS,MPP,Vendor,Not Specified,Cray Interconnect,3-D Torus,North America,Americas
+26,Defense Research Agency (DRA),Cray Inc.,T3D MC256-8,United Kingdom,1994,256,25.3,38.4,40960,4918,Alpha,Alpha EV4,149.9,Cray T3E/T3D,UNICOS,MPP,Classified,Not Specified,Cray Interconnect,3-D Torus,Northern Europe,Europe
+28,Los Alamos National Laboratory,Cray Inc.,T3D SC256-8/464,United States,1994,256,25.3,38.4,40960,4918,Alpha,Alpha EV4,149.9,Cray T3E/T3D,UNICOS,MPP,Research,Not Specified,Cray Interconnect,3-D Torus,North America,Americas
+29,NERSC/LLNL,Cray Inc.,T3D SC256-8/364,United States,1994,256,25.3,38.4,40960,4918,Alpha,Alpha EV4,149.9,Cray T3E/T3D,UNICOS,MPP,Research,Energy,Cray Interconnect,3-D Torus,North America,Americas
+30,Atmospheric Environment Service (AES),NEC,SX-3/44R,Canada,1994,4,23.2,25.6,6400,830,NEC,NEC,400.0,NEC Vector,Super-UX,SMP,Research,Weather and Climate Research,Crossbar,Multi-stage crossbar,North America,Americas
+31,NEC,NEC,SX-3/44R,Japan,1990,4,23.2,25.6,6400,830,NEC,NEC,400.0,NEC Vector,Super-UX,SMP,Vendor,Not Specified,Crossbar,Multi-stage crossbar,Eastern Asia,Asia
+33,Fujitsu System Evaluation Center,Fujitsu,VPP500/16,Japan,1993,16,21.7,25.6,14592,3090,Fujitsu,Fujitsu,100.0,Fujitsu VPP,UXP/V,MPP,Vendor,Not Specified,Crossbar,Full distributed crossbar,Eastern Asia,Asia
+38,Atmospheric Environment Service (AES),NEC,SX-3/44,Canada,1991,4,20.0,22.0,6144,832,NEC,NEC,343.8,NEC Vector,Super-UX,SMP,Research,Weather and Climate Research,Crossbar,Multi-stage crossbar,North America,Americas
+40,Institute for Molecular Science,NEC,SX-3/34R,Japan,1993,3,17.4,19.2,6144,691,NEC,NEC,400.0,NEC Vector,Super-UX,SMP,Research,Not Specified,Crossbar,Multi-stage crossbar,Eastern Asia,Asia
+42,Oak Ridge National Laboratory,Intel,XP/S35,United States,1992,512,15.2,26.0,23000,9000,Intel i860,Intel i860 Intel 80860,50.0,intel Paragon,OSF/1,MPP,Research,Not Specified,,2-D mesh (torus),North America,Americas
+43,Geco-Prakla,Thinking Machines Corporation,CM-5/256,United States,1994,256,15.1,32.77,26112,12032,Sparc,SuperSPARC I,32.0,TMC CM5,CMOST,MPP,Industry,Geophysics,Fat Tree,"Hypercube, tree",North America,Americas
+44,Government,Thinking Machines Corporation,CM-5/256,United States,1993,256,15.1,32.77,26112,12032,Sparc,SuperSPARC I,32.0,TMC CM5,CMOST,MPP,Classified,Not Specified,Fat Tree,"Hypercube, tree",North America,Americas
+45,Naval Research Laboratory (NRL),Thinking Machines Corporation,CM-5/256,United States,1992,256,15.1,32.77,26112,12032,Sparc,SuperSPARC I,32.0,TMC CM5,CMOST,MPP,Research,Not Specified,Fat Tree,"Hypercube, tree",North America,Americas
+46,Thinking Machines,Thinking Machines Corporation,CM-5/256,United States,1993,256,15.1,32.77,26112,12032,Sparc,SuperSPARC I,32.0,TMC CM5,CMOST,MPP,Vendor,Not Specified,Fat Tree,"Hypercube, tree",North America,Americas
+48,Cray Research,Cray Inc.,Y-MP C916/16256,United States,1992,16,13.7,15.238,10000,650,Cray,Cray,238.1,Cray Vector,UNICOS,SMP,Vendor,Not Specified,,,North America,Americas
+49,DKRZ - Deutsches Klimarechenzentrum,Cray Inc.,Y-MP C916/16256,Germany,1995,16,13.7,15.238,10000,650,Cray,Cray,238.1,Cray Vector,UNICOS,SMP,Research,Weather and Climate Research,,,Western Europe,Europe
+50,DOE/Bettis Atomic Power Laboratory,Cray Inc.,Y-MP C916/16256,United States,1993,16,13.7,15.238,10000,650,Cray,Cray,238.1,Cray Vector,UNICOS,SMP,Research,Not Specified,,,North America,Americas
+51,DOE/Knolls Atomic Power Laboratory,Cray Inc.,Y-MP C916/16256,United States,1993,16,13.7,15.238,10000,650,Cray,Cray,238.1,Cray Vector,UNICOS,SMP,Research,Not Specified,,,North America,Americas
+52,ECMWF,Cray Inc.,Y-MP C916/16256,United Kingdom,1994,16,13.7,15.238,10000,650,Cray,Cray,238.1,Cray Vector,UNICOS,SMP,Research,Weather and Climate Research,,,Northern Europe,Europe
+53,ERDC MSRC,Cray Inc.,Y-MP C916/161024,United States,1994,16,13.7,15.238,10000,650,Cray,Cray,238.1,Cray Vector,UNICOS,SMP,Research,Mechanics,,,North America,Americas
+54,Ford Motor Company,Cray Inc.,Y-MP C916/16512,United States,1995,16,13.7,15.238,10000,650,Cray,Cray,238.1,Cray Vector,UNICOS,SMP,Industry,Automotive,,,North America,Americas
+55,Ford Motor Company,Cray Inc.,Y-MP C916/16512,United States,1993,16,13.7,15.238,10000,650,Cray,Cray,238.1,Cray Vector,UNICOS,SMP,Industry,Automotive,,,North America,Americas
+56,Government,Cray Inc.,Y-MP C916/161024,United States,1992,16,13.7,15.238,10000,650,Cray,Cray,238.1,Cray Vector,UNICOS,SMP,Classified,Not Specified,,,North America,Americas
+57,Government,Cray Inc.,Y-MP C916/161024,United States,1992,16,13.7,15.238,10000,650,Cray,Cray,238.1,Cray Vector,UNICOS,SMP,Classified,Not Specified,,,North America,Americas
+58,Government,Cray Inc.,Y-MP C916/161024,United States,1992,16,13.7,15.238,10000,650,Cray,Cray,238.1,Cray Vector,UNICOS,SMP,Classified,Not Specified,,,North America,Americas
+59,Government,Cray Inc.,Y-MP C916/16512,United States,1994,16,13.7,15.238,10000,650,Cray,Cray,238.1,Cray Vector,UNICOS,SMP,Classified,Not Specified,,,North America,Americas
+60,Government,Cray Inc.,Y-MP C916/161024,United States,1992,16,13.7,15.238,10000,650,Cray,Cray,238.1,Cray Vector,UNICOS,SMP,Classified,Not Specified,,,North America,Americas
+61,Government Communications Headquarters,Cray Inc.,Y-MP C916/16256,United Kingdom,1994,16,13.7,15.238,10000,650,Cray,Cray,238.1,Cray Vector,UNICOS,SMP,Classified,Not Specified,,,Northern Europe,Europe
+62,KISTI Supercomputing Center,Cray Inc.,Y-MP C916/16512,"Korea, South",1993,16,13.7,15.238,10000,650,Cray,Cray,238.1,Cray Vector,UNICOS,SMP,Research,Information Processing Service,,,Eastern Asia,Asia
+63,MITI - AIST - RIPS,Cray Inc.,Y-MP C916/16256,Japan,1994,16,13.7,15.238,10000,650,Cray,Cray,238.1,Cray Vector,UNICOS,SMP,Research,Not Specified,,,Eastern Asia,Asia
+64,NASA/Ames Research Center/NAS,Cray Inc.,Y-MP C916/161024,United States,1993,16,13.7,15.238,10000,650,Cray,Cray,238.1,Cray Vector,UNICOS,SMP,Research,Not Specified,,,North America,Americas
+65,NERSC/LLNL,Cray Inc.,Y-MP C916/16256,United States,1992,16,13.7,15.238,10000,650,Cray,Cray,238.1,Cray Vector,UNICOS,SMP,Research,Energy,,,North America,Americas
+66,NOAA,Cray Inc.,Y-MP C916/16256,United States,1994,16,13.7,15.238,10000,650,Cray,Cray,238.1,Cray Vector,UNICOS,SMP,Research,Weather and Climate Research,,,North America,Americas
+67,National Security Agency,Cray Inc.,Y-MP C916/16512,United States,1994,16,13.7,15.238,10000,650,Cray,Cray,238.1,Cray Vector,UNICOS,SMP,Classified,Not Specified,,,North America,Americas
+68,Naval Oceanographic Office (NAVOCEANO),Cray Inc.,Y-MP C916/161024,United States,1994,16,13.7,15.238,10000,650,Cray,Cray,238.1,Cray Vector,UNICOS,SMP,Research,Weather and Climate Research,,,North America,Americas
+71,United Kingdom Meteorological Office,Cray Inc.,Y-MP C916/16256,United Kingdom,1994,16,13.7,15.238,10000,650,Cray,Cray,238.1,Cray Vector,UNICOS,SMP,Research,Weather and Climate Research,,,Northern Europe,Europe
+72,Communications Res. Lab. (CRL),Fujitsu,VPP500/10,Japan,1993,10,13.6,16.0,0,0,Fujitsu,Fujitsu,100.0,Fujitsu VPP,UXP/V,MPP,Research,Not Specified,Crossbar,Full distributed crossbar,Eastern Asia,Asia
+73,Air Force/Eglin Air Force Base,Cray Inc.,T3D MC128-8,United States,1994,128,12.8,19.2,20736,3408,Alpha,Alpha EV4,149.9,Cray T3E/T3D,UNICOS,MPP,Classified,Not Specified,Cray Interconnect,3-D Torus,North America,Americas
+74,Commissariat a l'Energie Atomique (CEA),Cray Inc.,T3D MCA128-8,France,1994,128,12.8,19.2,20736,3408,Alpha,Alpha EV4,149.9,Cray T3E/T3D,UNICOS,MPP,Research,Energy,Cray Interconnect,3-D Torus,Western Europe,Europe
+75,Commissariat a l'Energie Atomique (CEA),Cray Inc.,T3D MC128-8,France,1993,128,12.8,19.2,20736,3408,Alpha,Alpha EV4,149.9,Cray T3E/T3D,UNICOS,MPP,Research,Not Specified,Cray Interconnect,3-D Torus,Western Europe,Europe
+76,Cray Research,Cray Inc.,T3D MC128-8,United States,1995,128,12.8,19.2,20736,3408,Alpha,Alpha EV4,149.9,Cray T3E/T3D,UNICOS,MPP,Vendor,Not Specified,Cray Interconnect,3-D Torus,North America,Americas
+77,ECMWF,Cray Inc.,T3D MCA128-8,United Kingdom,1994,128,12.8,19.2,20736,3408,Alpha,Alpha EV4,149.9,Cray T3E/T3D,UNICOS,MPP,Research,Weather and Climate Research,Cray Interconnect,3-D Torus,Northern Europe,Europe
+78,Minnesota Supercomputer Center,Cray Inc.,T3D MC128-8,United States,1994,128,12.8,19.2,20736,3408,Alpha,Alpha EV4,149.9,Cray T3E/T3D,UNICOS,MPP,Industry,Not Specified,Cray Interconnect,3-D Torus,North America,Americas
+79,Petroleum Company (A),Cray Inc.,T3D MC128-8,United States,1994,128,12.8,19.2,20736,3408,Alpha,Alpha EV4,149.9,Cray T3E/T3D,UNICOS,MPP,Industry,Geophysics,Cray Interconnect,3-D Torus,North America,Americas
+80,Phillips Petroleum Company,Cray Inc.,T3D MC128-8,United States,1994,128,12.8,19.2,20736,3408,Alpha,Alpha EV4,149.9,Cray T3E/T3D,UNICOS,MPP,Industry,Geophysics,Cray Interconnect,3-D Torus,North America,Americas
+81,Reactor & Nuclear Fuel Development,Cray Inc.,T3D MCA128-2,Japan,1994,128,12.8,19.2,20736,3408,Alpha,Alpha EV4,149.9,Cray T3E/T3D,UNICOS,MPP,Research,Not Specified,Cray Interconnect,3-D Torus,Eastern Asia,Asia
+85,Oak Ridge National Laboratory,Intel,XP/S-MP 14,United States,1995,288,12.0,14.4,0,0,Intel i860,Intel i860 Intel 80860,50.0,intel Paragon,OSF/1,MPP,Research,Not Specified,,2-D mesh (torus),North America,Americas
+87,German Aerospace Laboratory (DLR),NEC,SX-3/24R,Germany,1994,2,11.6,12.8,4352,516,NEC,NEC,400.0,NEC Vector,Super-UX,SMP,Research,Aerospace,Crossbar,Multi-stage crossbar,Western Europe,Europe
+88,NEC,NEC,SX-3/24R,Japan,1994,2,11.6,12.8,4352,516,NEC,NEC,400.0,NEC Vector,Super-UX,SMP,Vendor,Not Specified,Crossbar,Multi-stage crossbar,Eastern Asia,Asia
+89,National Institute for Fusion Science,NEC,SX-3/24R,Japan,1993,2,11.6,12.8,4352,516,NEC,NEC,400.0,NEC Vector,Super-UX,SMP,Research,Not Specified,Crossbar,Multi-stage crossbar,Eastern Asia,Asia
+90,Swiss Scientific Computing Center (CSCS),NEC,SX-3/24R,Switzerland,1994,2,11.6,12.8,4352,516,NEC,NEC,400.0,NEC Vector,Super-UX,SMP,Research,Not Specified,Crossbar,Multi-stage crossbar,Western Europe,Europe
+91,Geco-Prakla,Thinking Machines Corporation,CM-5/192,United States,1995,192,11.4,24.57,0,0,Sparc,SuperSPARC I,32.0,TMC CM5,CMOST,MPP,Industry,Geophysics,Fat Tree,"Hypercube, tree",North America,Americas
+92,CERN,IBM,SP2/64,Switzerland,1994,64,11.4,17.024,26500,6250,Power,POWER2,66.5,IBM SP,AIX,MPP,Research,Not Specified,,,Western Europe,Europe
+93,Maui High-Performance Computing Center (MHPCC),IBM,SP2/64,United States,1994,64,11.4,17.024,26500,6250,Power,POWER2,66.5,IBM SP,AIX,MPP,Research,Not Specified,,,North America,Americas
+95,National Aerospace Laboratory of Japan,Intel,XP/S25,Japan,1994,336,10.0,16.8,0,0,Intel i860,Intel i860 Intel 80860,50.0,intel Paragon,OSF/1,MPP,Research,Not Specified,,2-D mesh (torus),Eastern Asia,Asia
+96,Space and Naval Warfare Systems Center (NRAD),Intel,XP/S25,United States,1994,336,10.0,16.8,0,0,Intel i860,Intel i860 Intel 80860,50.0,intel Paragon,OSF/1,MPP,Research,Not Specified,,2-D mesh (torus),North America,Americas
+98,Los Alamos National Laboratory,Thinking Machines Corporation,CM-200/64k,United States,1993,2048,9.8,20.0,29696,11264,TMC CM2,TMC CM2,10.0,TMC CM2,CMOST,SIMD,Research,Not Specified,,,North America,Americas
+99,Los Alamos National Laboratory,Thinking Machines Corporation,CM-200/64k,United States,1993,2048,9.8,20.0,29696,11264,TMC CM2,TMC CM2,10.0,TMC CM2,CMOST,SIMD,Research,Not Specified,,,North America,Americas
+100,Institute of Space & Astronautical Science (ISAS),Fujitsu,VPP500/7,Japan,1993,7,9.65,11.2,0,0,Fujitsu,Fujitsu,100.0,Fujitsu VPP,UXP/V,MPP,Research,Not Specified,Crossbar,Full distributed crossbar,Eastern Asia,Asia
+101,NASA/Langley Research Center,IBM,SP2/48,United States,1994,48,8.6,12.768,0,0,Power,POWER2,66.5,IBM SP,AIX,MPP,Research,Not Specified,,,North America,Americas
+102,Okazaki Bunshi Ken,IBM,SP2/48,Japan,1994,48,8.6,12.768,0,0,Power,POWER2,66.5,IBM SP,AIX,MPP,Research,Not Specified,,,Eastern Asia,Asia
+103,PIK,IBM,SP2/43,Germany,1994,43,7.725,11.438,0,0,Power,POWER2,66.5,IBM SP,AIX,MPP,Research,Not Specified,,,Western Europe,Europe
+104,The Angstrom Technology Partnership,Thinking Machines Corporation,CM-5E/128,Japan,1994,128,7.7,20.48,18432,8192,Sparc,SuperSPARC I,40.0,TMC CM5,CMOST,MPP,Research,Not Specified,,,Eastern Asia,Asia
+105,American Express,Thinking Machines Corporation,CM-5/128,United States,1993,128,7.7,16.38,18432,8192,Sparc,SuperSPARC I,32.0,TMC CM5,CMOST,MPP,Industry,Finance,Fat Tree,"Hypercube, tree",North America,Americas
+106,Government,Thinking Machines Corporation,CM-5/128,United States,1993,128,7.7,16.38,18432,8192,Sparc,SuperSPARC I,32.0,TMC CM5,CMOST,MPP,Classified,Not Specified,Fat Tree,"Hypercube, tree",North America,Americas
+107,Institut de Physique du Globe de Paris (IPG),Thinking Machines Corporation,CM-5/128,France,1992,128,7.7,16.38,18432,8192,Sparc,SuperSPARC I,32.0,TMC CM5,CMOST,MPP,Research,Not Specified,Fat Tree,"Hypercube, tree",Western Europe,Europe
+108,MIT,Thinking Machines Corporation,CM-5/128,United States,1993,128,7.7,16.38,18432,8192,Sparc,SuperSPARC I,32.0,TMC CM5,CMOST,MPP,Research,Not Specified,Fat Tree,"Hypercube, tree",North America,Americas
+109,Mobil / Technical Center,Thinking Machines Corporation,CM-5/128,United States,1992,128,7.7,16.38,18432,8192,Sparc,SuperSPARC I,32.0,TMC CM5,CMOST,MPP,Industry,Geophysics,Fat Tree,"Hypercube, tree",North America,Americas
+110,NASA/Ames Research Center/NAS,Thinking Machines Corporation,CM-5/128,United States,1993,128,7.7,16.38,18432,8192,Sparc,SuperSPARC I,32.0,TMC CM5,CMOST,MPP,Research,Not Specified,Fat Tree,"Hypercube, tree",North America,Americas
+111,Japan Atomic Energy Research Institute,Intel,XP/S20,Japan,1994,256,7.6,12.8,16000,4000,Intel i860,Intel i860 Intel 80860,50.0,intel Paragon,OSF/1,MPP,Research,Not Specified,,2-D mesh (torus),Eastern Asia,Asia
+113,Wright-Patterson Air Force Base/DoD ASC,Intel,XP/S20,United States,1994,256,7.6,12.8,16000,4000,Intel i860,Intel i860 Intel 80860,50.0,intel Paragon,OSF/1,MPP,Research,Not Specified,,2-D mesh (torus),North America,Americas
+114,Central Research Institute of Electric Power Industry/CRIEPI,Hitachi,S-3800/180,Japan,1994,1,7.4,8.0,15680,470,Hitachi,Hitachi,500.0,Hitachi Vector,VOS3/HAP/ES (IBM MVS compatible) and OSF/1,Single Processor,Research,Not Specified,,,Eastern Asia,Asia
+115,Hitachi Ltd. Energy Res. Lab.,Hitachi,S-3800/180,Japan,1993,1,7.4,8.0,15680,470,Hitachi,Hitachi,500.0,Hitachi Vector,VOS3/HAP/ES (IBM MVS compatible) and OSF/1,Single Processor,Vendor,Research,,,Eastern Asia,Asia
+116,Meteorological Research Institute/JMA,Hitachi,S-3800/180,Japan,1993,1,7.4,8.0,15680,470,Hitachi,Hitachi,500.0,Hitachi Vector,VOS3/HAP/ES (IBM MVS compatible) and OSF/1,Single Processor,Research,Weather and Climate Research,,,Eastern Asia,Asia
+119,National Cancer Research Institute,IBM,SP2/40,Japan,1994,40,7.2,10.64,0,0,Power,POWER2,66.5,IBM SP,AIX,MPP,Research,Not Specified,,,Eastern Asia,Asia
+121,Suzuki Motor,Hitachi,S-3800/260,Japan,1993,2,7.1,8.0,0,0,Hitachi,Hitachi,500.0,Hitachi Vector,VOS3/HAP/ES (IBM MVS compatible) and OSF/1,SMP,Industry,Automotive,,,Eastern Asia,Asia
+123,Cray Research,Cray Inc.,Y-MP C98/8512,United States,1994,8,6.85,7.619,0,0,Cray,Cray,238.1,Cray Vector,UNICOS,SMP,Vendor,Not Specified,,,North America,Americas
+124,Electricite de France,Cray Inc.,Y-MP C98/8512,France,1994,8,6.85,7.619,0,0,Cray,Cray,238.1,Cray Vector,UNICOS,SMP,Industry,Energy,,,Western Europe,Europe
+125,Fleet Numerical Meteorology and Oceanography Center,Cray Inc.,Y-MP C916/8256,United States,1994,8,6.85,7.619,0,0,Cray,Cray,238.1,Cray Vector,UNICOS,SMP,Research,Weather and Climate Research,,,North America,Americas
+126,Manufacturer (G),Cray Inc.,Y-MP C98/81024,United States,1995,8,6.85,7.619,0,0,Cray,Cray,238.1,Cray Vector,UNICOS,SMP,Industry,Automotive,,,North America,Americas
+127,Meteo-France,Cray Inc.,Y-MP C98/8256,France,1994,8,6.85,7.619,0,0,Cray,Cray,238.1,Cray Vector,UNICOS,SMP,Research,Weather and Climate Research,,,Western Europe,Europe
+128,Minnesota Supercomputer Center,Cray Inc.,Y-MP C916/8512,United States,1994,8,6.85,7.619,0,0,Cray,Cray,238.1,Cray Vector,UNICOS,SMP,Industry,Not Specified,,,North America,Americas
+129,NASA/Ames Research Center/CCF,Cray Inc.,Y-MP C916/8256,United States,1993,8,6.85,7.619,0,0,Cray,Cray,238.1,Cray Vector,UNICOS,SMP,Research,Aerospace,,,North America,Americas
+133,Mitsubishi Electric Corporation,Cray Inc.,T3D MC64-2,Japan,1994,64,6.4,9.6,20736,2368,Alpha,Alpha EV4,149.9,Cray T3E/T3D,UNICOS,MPP,Industry,Electronics,Cray Interconnect,3-D Torus,Eastern Asia,Asia
+134,NASA/Lewis Research Center,Cray Inc.,T3D MCA64-8,United States,1994,64,6.4,9.6,20736,2368,Alpha,Alpha EV4,149.9,Cray T3E/T3D,UNICOS,MPP,Research,Not Specified,Cray Interconnect,3-D Torus,North America,Americas
+135,NCAR (National Center for Atmospheric Research),Cray Inc.,T3D MCA64-8,United States,1994,64,6.4,9.6,20736,2368,Alpha,Alpha EV4,149.9,Cray T3E/T3D,UNICOS,MPP,Research,Weather and Climate Research,Cray Interconnect,3-D Torus,North America,Americas
+137,NASA/Ames Research Center/NAS,Intel,XP/S15,United States,1992,208,6.25,10.4,0,0,Intel i860,Intel i860 Intel 80860,50.0,intel Paragon,OSF/1,MPP,Research,Not Specified,,2-D mesh (torus),North America,Americas
+138,NOAA,Intel,XP/S15,United States,1994,208,6.25,10.4,0,0,Intel i860,Intel i860 Intel 80860,50.0,intel Paragon,OSF/1,MPP,Research,Weather and Climate Research,,2-D mesh (torus),North America,Americas
+139,GMD,IBM,SP2/34,Germany,1995,34,6.15,9.044,0,0,Power,POWER2,66.5,IBM SP,AIX,MPP,Research,Not Specified,,,Western Europe,Europe
+140,Grant Tensor,Intel,XP/S14,United States,1995,192,5.8,9.6,0,0,Intel i860,Intel i860 Intel 80860,50.0,intel Paragon,OSF/1,MPP,Industry,Geophysics,,2-D mesh (torus),North America,Americas
+143,China Meteorological Administration,IBM,SP2/32,China,1995,32,5.8,8.512,18000,4500,Power,POWER2,66.5,IBM SP,AIX,MPP,Research,Not Specified,,,Eastern Asia,Asia
+144,IBM Thomas J. Watson Research Center,IBM,SP2/32,United States,1993,32,5.8,8.512,18000,4500,Power,POWER2,66.5,IBM SP,AIX,MPP,Research,Not Specified,,,North America,Americas
+145,Japan Atomic Energy Research Institute,NEC,SX-3/41R,Japan,1992,4,5.8,6.4,3584,414,NEC,NEC,400.0,NEC Vector,Super-UX,SMP,Research,Not Specified,Crossbar,Multi-stage crossbar,Eastern Asia,Asia
+147,Toyota Central Research & Development,NEC,SX-3/14R,Japan,1992,1,5.8,6.4,2816,282,NEC,NEC,400.0,NEC Vector,Super-UX,Single Processor,Industry,Automotive,,,Eastern Asia,Asia
+148,Epsilon,Thinking Machines Corporation,CM-5/96,United States,1993,96,5.7,12.29,0,0,Sparc,SuperSPARC I,32.0,TMC CM5,CMOST,MPP,Industry,Not Specified,Fat Tree,"Hypercube, tree",North America,Americas
+150,Fujitsu,Fujitsu,VPP500/4,United States,1995,4,5.6,6.4,7344,1250,Fujitsu,Fujitsu,100.0,Fujitsu VPP,UXP/V,MPP,Vendor,Not Specified,Crossbar,Full distributed crossbar,North America,Americas
+154,Toyota Motor Company,Fujitsu,VPP500/4,Japan,1994,4,5.6,6.4,7344,1250,Fujitsu,Fujitsu,100.0,Fujitsu VPP,UXP/V,MPP,Industry,Automotive,Crossbar,Full distributed crossbar,Eastern Asia,Asia
+156,CRS4,IBM,SP2/30,Italy,1995,30,5.45,7.98,0,0,Power,POWER2,66.5,IBM SP,AIX,MPP,Research,Not Specified,,,Southern Europe,Europe
+157,Shell KSEPL,IBM,SP2/30,Netherlands,1995,30,5.45,7.98,0,0,Power,POWER2,66.5,IBM SP,AIX,MPP,Industry,Geophysics,,,Western Europe,Europe
+158,Shell KSLA,IBM,SP2/30,Netherlands,1995,30,5.45,7.98,0,0,Power,POWER2,66.5,IBM SP,AIX,MPP,Industry,Geophysics,,,Western Europe,Europe
+160,SRC,Thinking Machines Corporation,CM-2/64k,United States,1993,2048,5.2,14.0,26624,11000,TMC CM2,TMC CM2,7.0,TMC CM2,CMOST,SIMD,Industry,Not Specified,,,North America,Americas
+161,Lawrence Livermore National Laboratory,Meiko,CS-2/224,United States,1994,224,5.0,40.32,18688,6144,Intel IA-32,Intel IA-32 Intel,180.2,Meiko,SunOS,MPP,Research,Not Specified,Crossbar,Multi-stage crossbar,North America,Americas
+163,Lawrence Livermore National Laboratory,Meiko,CS-2/64,United States,1994,64,5.0,11.52,18688,6144,Intel IA-32,Intel IA-32 Intel,180.2,Meiko,SunOS,MPP,Research,Not Specified,Crossbar,Multi-stage crossbar,North America,Americas
+164,Government,Thinking Machines Corporation,CM-200/32k,United States,1989,1024,5.0,10.0,21504,8192,TMC CM2,TMC CM2,10.0,TMC CM2,CMOST,SIMD,Classified,Not Specified,,,North America,Americas
+165,Minnesota Supercomputer Center,Thinking Machines Corporation,CM-200/32k,United States,1993,1024,5.0,10.0,21504,8192,TMC CM2,TMC CM2,10.0,TMC CM2,CMOST,SIMD,Industry,Not Specified,,,North America,Americas
+166,Western Geophysical,Thinking Machines Corporation,CM-200/32k,United States,1994,1024,5.0,10.0,21504,8192,TMC CM2,TMC CM2,10.0,TMC CM2,CMOST,SIMD,Industry,Geophysics,,,North America,Americas
+167,Digital Equipment Corporation,Hewlett-Packard,AlphaServer 8400 5/300,United States,1995,12,5.0,7.2,9548,1148,Alpha,Alpha EV5,300.3,HP AlphaServer 8400,Digital Unix,SMP,Vendor,Benchmarking,Crossbar,Crossbar,North America,Americas
+168,IBM Japan Ltd.,NEC,SX-3/14,Japan,1991,1,5.0,5.5,3072,384,NEC,NEC,343.8,NEC Vector,Super-UX,Single Processor,Industry,Electronics,,,Eastern Asia,Asia
+169,NEC Systems Laboratories Inc.,NEC,SX-3/22,United States,1991,2,5.0,5.5,3072,384,NEC,NEC,343.8,NEC Vector,Super-UX,SMP,Research,Not Specified,Crossbar,Multi-stage crossbar,North America,Americas
+170,National Aerospace Laboratory (NLR),NEC,SX-3/22,Netherlands,1992,2,5.0,5.5,3072,384,NEC,NEC,343.8,NEC Vector,Super-UX,SMP,Research,Aerospace,Crossbar,Multi-stage crossbar,Western Europe,Europe
+171,National Institute for Environmental Studies,NEC,SX-3/14,Japan,1992,1,5.0,5.5,3072,384,NEC,NEC,343.8,NEC Vector,Super-UX,Single Processor,Research,Environment,,,Eastern Asia,Asia
+172,Argonne National Laboratory,IBM,9076-005 SP1,United States,1993,128,4.8,16.0,26000,6000,Power,POWER1,62.5,IBM SP,AIX,MPP,Research,Not Specified,,,North America,Americas
+173,IBM Thomas J. Watson Research Center,IBM,9076-005 SP1,United States,1993,128,4.8,16.0,26000,6000,Power,POWER1,62.5,IBM SP,AIX,MPP,Research,Not Specified,,,North America,Americas
+175,Pacific Northwest National Laboratory,Kendall Square Research,KSR2-80,United States,1994,80,4.77,6.4,0,0,KSR,KSR,40.0,KSR,KSR OS,MPP,Research,Not Specified,,,North America,Americas
+176,Japan Institute of Advanced Technology,Parsytec,GC PowerPlus/128,Japan,1994,128,4.737,10.24,22000,7800,Power,PowerPC 601,80.0,Parytec,PARIX,MPP,Research,Not Specified,,,Eastern Asia,Asia
+180,DaimlerChrysler,Cray Inc.,Y-MP C98/6256,United States,1995,6,4.63,5.714,0,0,Cray,Cray,238.1,Cray Vector,UNICOS,SMP,Industry,Automotive,,,North America,Americas
+181,NASA/Goddard Space Flight Center,Cray Inc.,Y-MP C98/6256,United States,1993,6,4.63,5.714,0,0,Cray,Cray,238.1,Cray Vector,UNICOS,SMP,Research,Weather and Climate Research,,,North America,Americas
+182,Forschungszentrum Juelich (FZJ),Intel,XP/S10,Germany,1994,144,4.45,7.2,0,0,Intel i860,Intel i860 Intel 80860,50.0,intel Paragon,OSF/1,MPP,Research,Not Specified,,2-D mesh (torus),Western Europe,Europe
+183,Lockheed Advanced Development,Intel,XP/S10,United States,1995,144,4.45,7.2,0,0,Intel i860,Intel i860 Intel 80860,50.0,intel Paragon,OSF/1,MPP,Industry,Aerospace,,2-D mesh (torus),North America,Americas
+186,DKFZ,IBM,SP2/24,Germany,1995,24,4.4,6.384,0,0,Power,POWER2,66.5,IBM SP,AIX,MPP,Research,Not Specified,,,Western Europe,Europe
+188,National Institute for Environmental Studies,IBM,SP2/24,Japan,1994,24,4.4,6.384,0,0,Power,POWER2,66.5,IBM SP,AIX,MPP,Research,Not Specified,,,Eastern Asia,Asia
+191,Intel SSD Development Centers,Intel,XP/S10,United States,1992,140,4.33,7.0,0,0,Intel i860,Intel i860 Intel 80860,50.0,intel Paragon,OSF/1,MPP,Vendor,Not Specified,,2-D mesh (torus),North America,Americas
+192,National Security Agency,Intel,XP/S10,United States,1994,140,4.33,7.0,0,0,Intel i860,Intel i860 Intel 80860,50.0,intel Paragon,OSF/1,MPP,Classified,Not Specified,,2-D mesh (torus),North America,Americas
+193,MIPS Technologies Inc. - Silicon Graphics,SGI,POWER CHALLENGE,United States,1994,18,4.142,5.4,2604,570,MIPS,MIPS R8000,75.0,SGI PowerChallenge,IRIX,SMP,Vendor,Electronics,,,North America,Americas
+194,SGI,SGI,POWER CHALLENGE,United States,1994,18,4.142,5.4,2604,570,MIPS,MIPS R8000,75.0,SGI PowerChallenge,IRIX,SMP,Vendor,Hardware,,,North America,Americas
+195,SGI,SGI,POWER CHALLENGE,United States,1994,18,4.142,5.4,2604,570,MIPS,MIPS R8000,75.0,SGI PowerChallenge,IRIX,SMP,Vendor,Benchmarking,,,North America,Americas
+196,SGI,SGI,POWER CHALLENGE,United States,1994,18,4.142,5.4,2604,570,MIPS,MIPS R8000,75.0,SGI PowerChallenge,IRIX,SMP,Vendor,Benchmarking,,,North America,Americas
+198,Vertex Pharmaceuticals,SGI,POWER CHALLENGE,United States,1995,18,4.142,5.4,2604,570,MIPS,MIPS R8000,75.0,SGI PowerChallenge,IRIX,SMP,Industry,Pharmaceutics,,,North America,Americas
+199,Dassault Aviation,IBM,SP2/22,France,1995,22,4.05,5.852,0,0,Power,POWER2,66.5,IBM SP,AIX,MPP,Industry,Aerospace,,,Western Europe,Europe
+201,Fuji Heavy,Fujitsu,VP2600/10,Japan,1990,1,4.0,5.0,0,0,Fujitsu,Fujitsu,312.5,Fujitsu VP,Unix,Single Processor,Industry,Heavy Industry,,,Eastern Asia,Asia
+202,Japan Atomic Energy Research Institute,Fujitsu,VP2600/10,Japan,1991,1,4.0,5.0,0,0,Fujitsu,Fujitsu,312.5,Fujitsu VP,Unix,Single Processor,Research,Not Specified,,,Eastern Asia,Asia
+203,Japan Atomic Energy Research Institute,Fujitsu,VP2600/10,Japan,1991,1,4.0,5.0,0,0,Fujitsu,Fujitsu,312.5,Fujitsu VP,Unix,Single Processor,Research,Not Specified,,,Eastern Asia,Asia
+207,National Aerospace Laboratory of Japan,Fujitsu,VP2600/10,Japan,1992,1,4.0,5.0,0,0,Fujitsu,Fujitsu,312.5,Fujitsu VP,Unix,Single Processor,Research,Not Specified,,,Eastern Asia,Asia
+208,Reactor & Nuclear Fuel Development,Fujitsu,VP2600/10,Japan,1991,1,4.0,5.0,0,0,Fujitsu,Fujitsu,312.5,Fujitsu VP,Unix,Single Processor,Research,Not Specified,,,Eastern Asia,Asia
+209,Reactor & Nuclear Fuel Development,Fujitsu,VP2600/10,Japan,1991,1,4.0,5.0,0,0,Fujitsu,Fujitsu,312.5,Fujitsu VP,Unix,Single Processor,Research,Not Specified,,,Eastern Asia,Asia
+210,Taisei Construction,Fujitsu,VP2600/10,Japan,1992,1,4.0,5.0,0,0,Fujitsu,Fujitsu,312.5,Fujitsu VP,Unix,Single Processor,Industry,Construction,,,Eastern Asia,Asia
+213,Georgia Institute of Technology,Kendall Square Research,KSR2-64,United States,1994,64,3.911,5.12,9216,3840,KSR,KSR,40.0,KSR,KSR OS,MPP,Research,Not Specified,,,North America,Americas
+216,AMOCO,Thinking Machines Corporation,CM-5/64,United States,1993,64,3.8,8.192,13056,6016,Sparc,SuperSPARC I,32.0,TMC CM5,CMOST,MPP,Industry,Geophysics,Fat Tree,"Hypercube, tree",North America,Americas
+217,ATR,Thinking Machines Corporation,CM-5/64,Japan,1993,64,3.8,8.192,13056,6016,Sparc,SuperSPARC I,32.0,TMC CM5,CMOST,MPP,Research,Not Specified,Fat Tree,"Hypercube, tree",Eastern Asia,Asia
+219,GMD,Thinking Machines Corporation,CM-5/64,Germany,1993,64,3.8,8.192,13056,6016,Sparc,SuperSPARC I,32.0,TMC CM5,CMOST,MPP,Research,Not Specified,Fat Tree,"Hypercube, tree",Western Europe,Europe
+222,Real World Computing (RWCP),Thinking Machines Corporation,CM-5/64,Japan,1992,64,3.8,8.192,13056,6016,Sparc,SuperSPARC I,32.0,TMC CM5,CMOST,MPP,Research,Not Specified,Fat Tree,"Hypercube, tree",Eastern Asia,Asia
+224,Western Geophysical,IBM,SP2/20,United Kingdom,1995,20,3.7,5.32,0,0,Power,POWER2,66.5,IBM SP,AIX,MPP,Industry,Geophysics,,,Northern Europe,Europe
+225,Advanced Geophysical,SGI,POWER CHALLENGE,United States,1995,16,3.7,4.8,2500,540,MIPS,MIPS R8000,75.0,SGI PowerChallenge,IRIX,SMP,Industry,Geophysics,,,North America,Americas
+226,Armstrong Labs,SGI,POWER CHALLENGE,United States,1994,16,3.7,4.8,2500,540,MIPS,MIPS R8000,75.0,SGI PowerChallenge,IRIX,SMP,Classified,Not Specified,,,North America,Americas
+229,EMBL,SGI,POWER CHALLENGE,Germany,1994,16,3.7,4.8,2500,540,MIPS,MIPS R8000,75.0,SGI PowerChallenge,IRIX,SMP,Research,Not Specified,,,Western Europe,Europe
+230,MIPS Technologies Inc. - Silicon Graphics,SGI,POWER CHALLENGE,United States,1994,16,3.7,4.8,2500,540,MIPS,MIPS R8000,75.0,SGI PowerChallenge,IRIX,SMP,Vendor,Electronics,,,North America,Americas
+231,NCAR (National Center for Atmospheric Research),SGI,POWER CHALLENGE,United States,1995,16,3.7,4.8,2500,540,MIPS,MIPS R8000,75.0,SGI PowerChallenge,IRIX,SMP,Research,Weather and Climate Research,,,North America,Americas
+233,Pratt and Whitney,SGI,POWER CHALLENGE,Canada,1995,16,3.7,4.8,2500,540,MIPS,MIPS R8000,75.0,SGI PowerChallenge,IRIX,SMP,Industry,Aerospace,,,North America,Americas
+234,SGI,SGI,POWER CHALLENGE,United States,1995,16,3.7,4.8,2500,540,MIPS,MIPS R8000,75.0,SGI PowerChallenge,IRIX,SMP,Vendor,Software,,,North America,Americas
+235,SGI,SGI,POWER CHALLENGE,United States,1995,16,3.7,4.8,2500,540,MIPS,MIPS R8000,75.0,SGI PowerChallenge,IRIX,SMP,Vendor,Software,,,North America,Americas
+236,SGI,SGI,POWER CHALLENGE,United States,1994,16,3.7,4.8,2500,540,MIPS,MIPS R8000,75.0,SGI PowerChallenge,IRIX,SMP,Vendor,Not Specified,,,North America,Americas
+237,SGI,SGI,POWER CHALLENGE,United States,1995,16,3.7,4.8,2500,540,MIPS,MIPS R8000,75.0,SGI PowerChallenge,IRIX,SMP,Vendor,Software,,,North America,Americas
+238,SGI,SGI,POWER CHALLENGE,United States,1995,16,3.7,4.8,2500,540,MIPS,MIPS R8000,75.0,SGI PowerChallenge,IRIX,SMP,Vendor,Software,,,North America,Americas
+239,SGI,SGI,POWER CHALLENGE,United States,1995,16,3.7,4.8,2500,540,MIPS,MIPS R8000,75.0,SGI PowerChallenge,IRIX,SMP,Vendor,Software,,,North America,Americas
+240,SGI,SGI,POWER CHALLENGE,United States,1994,16,3.7,4.8,2500,540,MIPS,MIPS R8000,75.0,SGI PowerChallenge,IRIX,SMP,Vendor,Not Specified,,,North America,Americas
+241,SGI,SGI,POWER CHALLENGE,United States,1994,16,3.7,4.8,2500,540,MIPS,MIPS R8000,75.0,SGI PowerChallenge,IRIX,SMP,Vendor,Software,,,North America,Americas
+242,SGI,SGI,POWER CHALLENGE,United States,1995,16,3.7,4.8,2500,540,MIPS,MIPS R8000,75.0,SGI PowerChallenge,IRIX,SMP,Vendor,Software,,,North America,Americas
+243,SGI,SGI,POWER CHALLENGE,United States,1995,16,3.7,4.8,2500,540,MIPS,MIPS R8000,75.0,SGI PowerChallenge,IRIX,SMP,Vendor,Hardware,,,North America,Americas
+244,SGI,SGI,POWER CHALLENGE,United States,1995,16,3.7,4.8,2500,540,MIPS,MIPS R8000,75.0,SGI PowerChallenge,IRIX,SMP,Vendor,Software,,,North America,Americas
+245,SGI,SGI,POWER CHALLENGE,United States,1995,16,3.7,4.8,2500,540,MIPS,MIPS R8000,75.0,SGI PowerChallenge,IRIX,SMP,Vendor,Software,,,North America,Americas
+246,SGI,SGI,POWER CHALLENGE,United States,1994,16,3.7,4.8,2500,540,MIPS,MIPS R8000,75.0,SGI PowerChallenge,IRIX,SMP,Vendor,Benchmarking,,,North America,Americas
+247,Silicon Graphics,SGI,POWER CHALLENGE,Switzerland,1995,16,3.7,4.8,2500,540,MIPS,MIPS R8000,75.0,SGI PowerChallenge,IRIX,SMP,Vendor,Benchmarking,,,Western Europe,Europe
+248,Silicon Graphics,SGI,POWER CHALLENGE,United States,1994,16,3.7,4.8,2500,540,MIPS,MIPS R8000,75.0,SGI PowerChallenge,IRIX,SMP,Vendor,Not Specified,,,North America,Americas
+249,Silicon Graphics,SGI,POWER CHALLENGE,Switzerland,1995,16,3.7,4.8,2500,540,MIPS,MIPS R8000,75.0,SGI PowerChallenge,IRIX,SMP,Vendor,Benchmarking,,,Western Europe,Europe
+250,Silicon Graphics,SGI,POWER CHALLENGE,United States,1995,16,3.7,4.8,2500,540,MIPS,MIPS R8000,75.0,SGI PowerChallenge,IRIX,SMP,Vendor,Benchmarking,,,North America,Americas
+251,Silicon Graphics,SGI,POWER CHALLENGE,Japan,1994,16,3.7,4.8,2500,540,MIPS,MIPS R8000,75.0,SGI PowerChallenge,IRIX,SMP,Vendor,Benchmarking,,,Eastern Asia,Asia
+252,Silicon Graphics,SGI,POWER CHALLENGE,Switzerland,1995,16,3.7,4.8,2500,540,MIPS,MIPS R8000,75.0,SGI PowerChallenge,IRIX,SMP,Vendor,Benchmarking,,,Western Europe,Europe
+253,Silicon Graphics,SGI,POWER CHALLENGE,Switzerland,1995,16,3.7,4.8,2500,540,MIPS,MIPS R8000,75.0,SGI PowerChallenge,IRIX,SMP,Vendor,Benchmarking,,,Western Europe,Europe
+254,Silicon Graphics,SGI,POWER CHALLENGE,United States,1994,16,3.7,4.8,2500,540,MIPS,MIPS R8000,75.0,SGI PowerChallenge,IRIX,SMP,Vendor,Not Specified,,,North America,Americas
+255,Silicon Graphics,SGI,POWER CHALLENGE,Singapore,1995,16,3.7,4.8,2500,540,MIPS,MIPS R8000,75.0,SGI PowerChallenge,IRIX,SMP,Vendor,Benchmarking,,,South-eastern Asia,Asia
+260,Western Geophysical,SGI,POWER CHALLENGE,United States,1995,16,3.7,4.8,2500,540,MIPS,MIPS R8000,75.0,SGI PowerChallenge,IRIX,SMP,Industry,Geophysics,,,North America,Americas
+264,NIST - US Department of Commerce,IBM,SP2/19,United States,1994,19,3.525,5.054,0,0,Power,POWER2,66.5,IBM SP,AIX,MPP,Research,Not Specified,,,North America,Americas
+265,National Security Agency,Intel,XP/S8,United States,1994,110,3.43,5.5,0,0,Intel i860,Intel i860 Intel 80860,50.0,intel Paragon,OSF/1,MPP,Classified,Not Specified,,2-D mesh (torus),North America,Americas
+266,US Army Research Laboratory (ARL),Kendall Square Research,KSR1-256,United States,1993,256,3.38,10.24,10240,1824,KSR,KSR,20.0,KSR,KSR OS,MPP,Research,Not Specified,,,North America,Americas
+268,Cray Research,Cray Inc.,T94/4128,United States,1995,4,3.275,7.2,0,0,Cray,Cray,450.5,Cray Vector,UNICOS,SMP,Vendor,Not Specified,,,North America,Americas
+269,Government,Cray Inc.,T94/4128,United States,1995,4,3.275,7.2,0,0,Cray,Cray,450.5,Cray Vector,UNICOS,SMP,Classified,Not Specified,,,North America,Americas
+270,Government,Cray Inc.,T94/4128,United States,1995,4,3.275,7.2,0,0,Cray,Cray,450.5,Cray Vector,UNICOS,SMP,Classified,Not Specified,,,North America,Americas
+271,Bristol-Myers Squibb,Cray Inc.,Y-MP C94A/4128,United States,1994,4,3.275,3.809,0,0,Cray,Cray,238.1,Cray Vector,UNICOS,SMP,Industry,Chemistry,,,North America,Americas
+273,Commissariat a l'Energie Atomique (CEA),Cray Inc.,Y-MP C94/4256,France,1994,4,3.275,3.809,0,0,Cray,Cray,238.1,Cray Vector,UNICOS,SMP,Research,Energy,,,Western Europe,Europe
+274,Compagnie Generale de Geophysique (CGG),Cray Inc.,Y-MP C94/4256,France,1995,4,3.275,3.809,0,0,Cray,Cray,238.1,Cray Vector,UNICOS,SMP,Industry,Geophysics,,,Western Europe,Europe
+275,Du Pont De Nemours & Company,Cray Inc.,Y-MP C94/4128,United States,1994,4,3.275,3.809,0,0,Cray,Cray,238.1,Cray Vector,UNICOS,SMP,Industry,Chemistry,,,North America,Americas
+276,EDS/ Adam Opel AG,Cray Inc.,Y-MP C94/4256,Germany,1995,4,3.275,3.809,0,0,Cray,Cray,238.1,Cray Vector,UNICOS,SMP,Industry,Automotive,,,Western Europe,Europe
+277,Instituto Nacional de Meteorologia,Cray Inc.,Y-MP C94A/4128,Spain,1994,4,3.275,3.809,0,0,Cray,Cray,238.1,Cray Vector,UNICOS,SMP,Research,Weather and Climate Research,,,Southern Europe,Europe
+278,PSA Peugeot Citroen,Cray Inc.,Y-MP C94A/4128,France,1994,4,3.275,3.809,0,0,Cray,Cray,238.1,Cray Vector,UNICOS,SMP,Industry,Automotive,,,Western Europe,Europe
+281,debis Systemhaus,Cray Inc.,Y-MP C94/4256,Germany,1994,4,3.275,3.809,0,0,Cray,Cray,238.1,Cray Vector,UNICOS,SMP,Industry,Automotive,,,Western Europe,Europe
+284,BMW AG,SGI,POWER CHALLENGE,Germany,1994,14,3.203,4.2,2000,470,MIPS,MIPS R8000,75.0,SGI PowerChallenge,IRIX,SMP,Industry,Automotive,,,Western Europe,Europe
+287,Texaco,SGI,POWER CHALLENGE,United States,1995,14,3.203,4.2,2000,470,MIPS,MIPS R8000,75.0,SGI PowerChallenge,IRIX,SMP,Industry,Geophysics,,,North America,Americas
+290,Cray Research,Cray Inc.,T3D MC32-2,United States,1995,32,3.2,4.8,14592,1616,Alpha,Alpha EV4,149.9,Cray T3E/T3D,UNICOS,MPP,Vendor,Not Specified,Cray Interconnect,3-D Torus,North America,Americas
+291,DKRZ - Deutsches Klimarechenzentrum,Cray Inc.,T3D MCA32-8,Germany,1994,32,3.2,4.8,14592,1616,Alpha,Alpha EV4,149.9,Cray T3E/T3D,UNICOS,MPP,Research,Weather and Climate Research,Cray Interconnect,3-D Torus,Western Europe,Europe
+292,DaimlerChrysler,Cray Inc.,T3D MCA32-8,United States,1994,32,3.2,4.8,14592,1616,Alpha,Alpha EV4,149.9,Cray T3E/T3D,UNICOS,MPP,Industry,Automotive,Cray Interconnect,3-D Torus,North America,Americas
+297,Commissariat a l'Energie Atomique (CEA),IBM,SP2/16,France,1995,16,3.0,4.256,13000,2600,Power,POWER2,66.5,IBM SP,AIX,MPP,Research,Not Specified,,,Western Europe,Europe
+298,Daresbury Laboratory,IBM,SP2/16,United Kingdom,1995,16,3.0,4.256,13000,2600,Power,POWER2,66.5,IBM SP,AIX,MPP,Research,Chemistry,,,Northern Europe,Europe
+299,European Space Agency (ESTEC),IBM,SP2/16,Netherlands,1994,16,3.0,4.256,13000,2600,Power,POWER2,66.5,IBM SP,AIX,MPP,Research,Aerospace,,,Western Europe,Europe
+300,IBM,IBM,SP2/16,Italy,1995,16,3.0,4.256,13000,2600,Power,POWER2,66.5,IBM SP,AIX,MPP,Vendor,Software,,,Southern Europe,Europe
+301,IBM,IBM,SP2/16,United States,1994,16,3.0,4.256,13000,2600,Power,POWER2,66.5,IBM SP,AIX,MPP,Vendor,Not Specified,,,North America,Americas
+302,IN2P3,IBM,SP2/16,France,1995,16,3.0,4.256,13000,2600,Power,POWER2,66.5,IBM SP,AIX,MPP,Research,Not Specified,,,Western Europe,Europe
+303,Maui High-Performance Computing Center (MHPCC),IBM,SP2/16,United States,1994,16,3.0,4.256,13000,2600,Power,POWER2,66.5,IBM SP,AIX,MPP,Research,Not Specified,,,North America,Americas
+304,Oak Ridge National Laboratory,IBM,SP2/16,United States,1994,16,3.0,4.256,13000,2600,Power,POWER2,66.5,IBM SP,AIX,MPP,Research,Not Specified,,,North America,Americas
+314,NEC Scientific Information Systems Dev. (NSIS),NEC,SX-3/12R,Japan,1992,1,2.9,3.2,2048,174,NEC,NEC,400.0,NEC Vector,Super-UX,Single Processor,Research,Not Specified,,,Eastern Asia,Asia
+315,National Institute for Space Research (INPE),NEC,SX-3/12R,Brazil,1993,1,2.9,3.2,2048,174,NEC,NEC,400.0,NEC Vector,Super-UX,Single Processor,Research,Weather and Climate Research,,,South America,Americas
+316,Obayashi Corporation,NEC,SX-3/21R,Japan,1992,2,2.9,3.2,2560,257,NEC,NEC,400.0,NEC Vector,Super-UX,SMP,Industry,Not Specified,Crossbar,Multi-stage crossbar,Eastern Asia,Asia
+317,DaimlerChrysler,SGI,POWER CHALLENGE,United States,1995,12,2.874,3.6,2000,450,MIPS,MIPS R8000,75.0,SGI PowerChallenge,IRIX,SMP,Industry,Automotive,,,North America,Americas
+318,General Motors,SGI,POWER CHALLENGE,United States,1995,12,2.874,3.6,2000,450,MIPS,MIPS R8000,75.0,SGI PowerChallenge,IRIX,SMP,Industry,Automotive,,,North America,Americas
+320,Lawrence Livermore National Laboratory,SGI,POWER CHALLENGE,United States,1995,12,2.874,3.6,2000,450,MIPS,MIPS R8000,75.0,SGI PowerChallenge,IRIX,SMP,Research,Not Specified,,,North America,Americas
+321,Pacific Northwest National Laboratory,SGI,POWER CHALLENGE,United States,1995,12,2.874,3.6,2000,450,MIPS,MIPS R8000,75.0,SGI PowerChallenge,IRIX,SMP,Research,Not Specified,,,North America,Americas
+322,Pacific Northwest National Laboratory,SGI,POWER CHALLENGE,United States,1995,12,2.874,3.6,2000,450,MIPS,MIPS R8000,75.0,SGI PowerChallenge,IRIX,SMP,Research,Not Specified,,,North America,Americas
+323,SGI,SGI,POWER Onyx,United States,1994,12,2.874,3.6,2000,450,MIPS,MIPS R8000,75.0,SGI PowerChallenge,IRIX,SMP,Vendor,Not Specified,,,North America,Americas
+324,US Army Research Laboratory (ARL),SGI,POWER CHALLENGE,United States,1995,12,2.874,3.6,2000,450,MIPS,MIPS R8000,75.0,SGI PowerChallenge,IRIX,SMP,Research,Not Specified,,,North America,Americas
+325,US Army Research Laboratory (ARL),SGI,POWER CHALLENGE,United States,1995,12,2.874,3.6,2000,450,MIPS,MIPS R8000,75.0,SGI PowerChallenge,IRIX,SMP,Research,Not Specified,,,North America,Americas
+326,US Army Research Laboratory (ARL),SGI,POWER CHALLENGE,United States,1995,12,2.874,3.6,2000,450,MIPS,MIPS R8000,75.0,SGI PowerChallenge,IRIX,SMP,Research,Not Specified,,,North America,Americas
+327,US Army Research Laboratory (ARL),SGI,POWER CHALLENGE,United States,1995,12,2.874,3.6,2000,450,MIPS,MIPS R8000,75.0,SGI PowerChallenge,IRIX,SMP,Research,Not Specified,,,North America,Americas
+328,US Army Research Laboratory (ARL),SGI,POWER CHALLENGE,United States,1995,12,2.874,3.6,2000,450,MIPS,MIPS R8000,75.0,SGI PowerChallenge,IRIX,SMP,Research,Not Specified,,,North America,Americas
+329,US Army Research Laboratory (ARL),SGI,POWER CHALLENGE,United States,1995,12,2.874,3.6,2000,450,MIPS,MIPS R8000,75.0,SGI PowerChallenge,IRIX,SMP,Research,Not Specified,,,North America,Americas
+330,US Army Research Laboratory (ARL),SGI,POWER CHALLENGE,United States,1995,12,2.874,3.6,2000,450,MIPS,MIPS R8000,75.0,SGI PowerChallenge,IRIX,SMP,Research,Not Specified,,,North America,Americas
+331,US Army Research Laboratory (ARL),SGI,POWER CHALLENGE,United States,1995,12,2.874,3.6,2000,450,MIPS,MIPS R8000,75.0,SGI PowerChallenge,IRIX,SMP,Research,Not Specified,,,North America,Americas
+333,Volvo,SGI,POWER CHALLENGE,Sweden,1995,12,2.874,3.6,2000,450,MIPS,MIPS R8000,75.0,SGI PowerChallenge,IRIX,SMP,Industry,Automotive,,,Northern Europe,Europe
+335,CERFACS,Meiko,CS-2/32,France,1994,32,2.8,5.76,13824,3488,Intel IA-32,Intel IA-32 Intel,180.2,Meiko,SunOS,MPP,Research,Not Specified,Crossbar,Multi-stage crossbar,Western Europe,Europe
+336,CERN,Meiko,CS-2/32,Switzerland,1994,32,2.8,5.76,13824,3488,Intel IA-32,Intel IA-32 Intel,180.2,Meiko,SunOS,MPP,Research,Not Specified,Crossbar,Multi-stage crossbar,Western Europe,Europe
+337,Argonne National Laboratory - DIS,IBM,SP2/14,United States,1994,14,2.625,3.724,0,0,Power,POWER2,66.5,IBM SP,AIX,MPP,Research,Not Specified,,,North America,Americas
+338,Federal Home Loan Mortgage Corp.,IBM,SP2/14,United States,1995,14,2.625,3.724,0,0,Power,POWER2,66.5,IBM SP,AIX,MPP,Industry,Not Specified,,,North America,Americas
+339,Forschungszentrum Juelich (FZJ),IBM,SP2/14,Germany,1995,14,2.625,3.724,0,0,Power,POWER2,66.5,IBM SP,AIX,MPP,Research,Not Specified,,,Western Europe,Europe
+340,GSI,IBM,SP2/14,Germany,1995,14,2.625,3.724,0,0,Power,POWER2,66.5,IBM SP,AIX,MPP,Research,Not Specified,,,Western Europe,Europe
+343,CRS4,Parsytec,GC PowerPlus/64,Italy,1994,64,2.61,5.12,15000,5000,Power,PowerPC 601,80.0,Parytec,PARIX,MPP,Research,Not Specified,,,Southern Europe,Europe
+345,Alliant Techsystems Inc.,Intel,iPSC/860,United States,1990,128,2.6,5.12,12000,4500,Intel i860,Intel i860 Intel 80860,40.0,Intel IPSC,NX/2 node OS,MPP,Industry,Biochemistry,Crossbar,Hypercube,North America,Americas
+346,Grant Tensor,Intel,iPSC/860,United States,1991,128,2.6,5.12,12000,4500,Intel i860,Intel i860 Intel 80860,40.0,Intel IPSC,NX/2 node OS,MPP,Industry,Geophysics,Crossbar,Hypercube,North America,Americas
+347,Grant Tensor,Intel,iPSC/860,United Kingdom,1991,128,2.6,5.12,12000,4500,Intel i860,Intel i860 Intel 80860,40.0,Intel IPSC,NX/2 node OS,MPP,Industry,Geophysics,Crossbar,Hypercube,Northern Europe,Europe
+348,Lockheed Advanced Development,Intel,iPSC/860,United States,1992,128,2.6,5.12,12000,4500,Intel i860,Intel i860 Intel 80860,40.0,Intel IPSC,NX/2 node OS,MPP,Industry,Aerospace,Crossbar,Hypercube,North America,Americas
+349,NASA/Ames Research Center/NAS,Intel,iPSC/860,United States,1990,128,2.6,5.12,12000,4500,Intel i860,Intel i860 Intel 80860,40.0,Intel IPSC,NX/2 node OS,MPP,Research,Not Specified,Crossbar,Hypercube,North America,Americas
+350,NIH (National Institutes of Health),Intel,iPSC/860,United States,1990,128,2.6,5.12,12000,4500,Intel i860,Intel i860 Intel 80860,40.0,Intel IPSC,NX/2 node OS,MPP,Research,Not Specified,Crossbar,Hypercube,North America,Americas
+351,ONERA,Intel,iPSC/860,France,1991,128,2.6,5.12,12000,4500,Intel i860,Intel i860 Intel 80860,40.0,Intel IPSC,NX/2 node OS,MPP,Research,Aerospace,Crossbar,Hypercube,Western Europe,Europe
+352,Oak Ridge National Laboratory,Intel,iPSC/860,United States,1989,128,2.6,5.12,12000,4500,Intel i860,Intel i860 Intel 80860,40.0,Intel IPSC,NX/2 node OS,MPP,Research,Not Specified,Crossbar,Hypercube,North America,Americas
+353,ATR,Kendall Square Research,KSR1-96,Japan,1993,96,2.535,3.84,0,0,KSR,KSR,20.0,KSR,KSR OS,MPP,Research,Not Specified,,,Eastern Asia,Asia
+355,Ford Motor Company,Hewlett-Packard,C4/XA-4,United States,1994,4,2.531,3.24,0,0,Convex,Convex,135.0,Convex Vector,ConvexOS,SMP,Industry,Automotive,,,North America,Americas
+356,INRIA - Sophia Antipolis,Thinking Machines Corporation,CM-200/16k,France,1992,512,2.4,5.0,14848,5632,TMC CM2,TMC CM2,10.0,TMC CM2,CMOST,SIMD,Research,Not Specified,,,Western Europe,Europe
+358,Naval Research Laboratory (NRL),Thinking Machines Corporation,CM-200/16k,United States,1987,512,2.4,5.0,14848,5632,TMC CM2,TMC CM2,10.0,TMC CM2,CMOST,SIMD,Research,Not Specified,,,North America,Americas
+364,Bayer AG,SGI,POWER CHALLENGE,Germany,1995,10,2.395,3.0,2000,470,MIPS,MIPS R8000,75.0,SGI PowerChallenge,IRIX,SMP,Industry,Chemistry,,,Western Europe,Europe
+366,Missle & Space Intelligence Center,SGI,POWER CHALLENGE,United States,1994,10,2.395,3.0,2000,470,MIPS,MIPS R8000,75.0,SGI PowerChallenge,IRIX,SMP,Classified,Defense,,,North America,Americas
+367,National Supercomputing Institute,SGI,POWER CHALLENGE,Taiwan,1995,10,2.395,3.0,2000,470,MIPS,MIPS R8000,75.0,SGI PowerChallenge,IRIX,SMP,Research,Not Specified,,,Eastern Asia,Asia
+368,Silicon Graphics,SGI,POWER CHALLENGE,Canada,1994,10,2.395,3.0,2000,470,MIPS,MIPS R8000,75.0,SGI PowerChallenge,IRIX,SMP,Vendor,Benchmarking,,,North America,Americas
+369,Silicon Graphics,SGI,POWER CHALLENGE,United States,1994,10,2.395,3.0,2000,470,MIPS,MIPS R8000,75.0,SGI PowerChallenge,IRIX,SMP,Vendor,Benchmarking,,,North America,Americas
+373,Unocal,SGI,POWER CHALLENGE,United States,1995,10,2.395,3.0,2000,470,MIPS,MIPS R8000,75.0,SGI PowerChallenge,IRIX,SMP,Industry,Geophysics,,,North America,Americas
+374,US Naval Air Warfare Center (NAWC),Intel,XP/S5,United States,1994,72,2.25,3.6,0,0,Intel i860,Intel i860 Intel 80860,50.0,intel Paragon,OSF/1,MPP,Classified,Not Specified,,2-D mesh (torus),North America,Americas
+376,Argonne National Laboratory,IBM,SP2/12,United States,1994,12,2.25,3.192,0,0,Power,POWER2,66.5,IBM SP,AIX,MPP,Research,Not Specified,,,North America,Americas
+378,IBM Bedfont Lakes,IBM,SP2/12,United Kingdom,1995,12,2.25,3.192,0,0,Power,POWER2,66.5,IBM SP,AIX,MPP,Vendor,Software,,,Northern Europe,Europe
+379,MIT,IBM,SP2/12,United States,1994,12,2.25,3.192,0,0,Power,POWER2,66.5,IBM SP,AIX,MPP,Research,Not Specified,,,North America,Americas
+380,Shell Oil Corporation,IBM,SP2/12,United States,1994,12,2.25,3.192,0,0,Power,POWER2,66.5,IBM SP,AIX,MPP,Industry,Geophysics,,,North America,Americas
+383,ONERA,Intel,XP/S5,France,1994,71,2.215,3.55,0,0,Intel i860,Intel i860 Intel 80860,50.0,intel Paragon,OSF/1,MPP,Research,Aerospace,,2-D mesh (torus),Western Europe,Europe
+384,NERSC/LLNL,Cray Inc.,CRAY-2s/8-128,United States,1990,8,2.171,3.902,0,0,Cray,Cray,243.9,Cray 2/3,UNICOS,SMP,Research,Energy,,,North America,Americas
+385,AMOCO,Cray Inc.,Y-MP J916/16-2048,Canada,1995,16,2.17,3.2,0,0,Cray,Cray,100.0,Cray Vector,UNICOS,SMP,Industry,Geophysics,,,North America,Americas
+386,Aerospatiale,Cray Inc.,Y-MP J916/16-4096,France,1995,16,2.17,3.2,0,0,Cray,Cray,100.0,Cray Vector,UNICOS,SMP,Industry,Aerospace,,,Western Europe,Europe
+387,Cray Research,Cray Inc.,Y-MP J916/16-2048,United States,1995,16,2.17,3.2,0,0,Cray,Cray,100.0,Cray Vector,UNICOS,SMP,Vendor,Not Specified,,,North America,Americas
+388,DLR,Cray Inc.,Y-MP J916/16-4096,Germany,1995,16,2.17,3.2,0,0,Cray,Cray,100.0,Cray Vector,UNICOS,SMP,Research,Aerospace,,,Western Europe,Europe
+391,Government,Cray Inc.,Y-MP J916/16-4096,United States,1995,16,2.17,3.2,0,0,Cray,Cray,100.0,Cray Vector,UNICOS,SMP,Classified,Not Specified,,,North America,Americas
+392,NCAR (National Center for Atmospheric Research),Cray Inc.,Y-MP J916/16-2048,United States,1995,16,2.17,3.2,0,0,Cray,Cray,100.0,Cray Vector,UNICOS,SMP,Research,Weather and Climate Research,,,North America,Americas
+393,NOAA/National Centers for Environment Prediction,Cray Inc.,Y-MP J916/16-2048,United States,1995,16,2.17,3.2,0,0,Cray,Cray,100.0,Cray Vector,UNICOS,SMP,Research,Weather and Climate Research,,,North America,Americas
+394,National Security Agency,Cray Inc.,Y-MP J916/16-4096,United States,1995,16,2.17,3.2,0,0,Cray,Cray,100.0,Cray Vector,UNICOS,SMP,Classified,Not Specified,,,North America,Americas
+396,Arabian American Oil Company,Cray Inc.,Y-MP8E/8256,Saudia Arabia,1991,8,2.144,2.667,0,0,Cray,Cray,166.7,Cray Vector,UNICOS,SMP,Industry,Geophysics,,,Western Asia,Asia
+397,Atomic Weapons Establishment,Cray Inc.,Y-MP8/864,United Kingdom,1994,8,2.144,2.667,0,0,Cray,Cray,166.7,Cray Vector,UNICOS,SMP,Classified,Not Specified,,,Northern Europe,Europe
+398,Commissariat a l'Energie Atomique (CEA),Cray Inc.,Y-MP8/8128,France,1991,8,2.144,2.667,0,0,Cray,Cray,166.7,Cray Vector,UNICOS,SMP,Research,Energy,,,Western Europe,Europe
+399,Cray Research,Cray Inc.,Y-MP8/8256,United States,1993,8,2.144,2.667,0,0,Cray,Cray,166.7,Cray Vector,UNICOS,SMP,Vendor,Not Specified,,,North America,Americas
+400,Cray Research,Cray Inc.,Y-MP8/8128,United States,1993,8,2.144,2.667,0,0,Cray,Cray,166.7,Cray Vector,UNICOS,SMP,Vendor,Not Specified,,,North America,Americas
+401,DOE/Bettis Atomic Power Laboratory,Cray Inc.,Y-MP8/864,United States,1990,8,2.144,2.667,0,0,Cray,Cray,166.7,Cray Vector,UNICOS,SMP,Research,Not Specified,,,North America,Americas
+402,DOE/Knolls Atomic Power Laboratory,Cray Inc.,Y-MP8/864,United States,1990,8,2.144,2.667,0,0,Cray,Cray,166.7,Cray Vector,UNICOS,SMP,Research,Not Specified,,,North America,Americas
+403,ERDC MSRC,Cray Inc.,Y-MP8/8128,United States,1993,8,2.144,2.667,0,0,Cray,Cray,166.7,Cray Vector,UNICOS,SMP,Research,Mechanics,,,North America,Americas
+404,Forschungszentrum Juelich (FZJ),Cray Inc.,Y-MP8/864,Germany,1993,8,2.144,2.667,0,0,Cray,Cray,166.7,Cray Vector,UNICOS,SMP,Research,Not Specified,,,Western Europe,Europe
+406,Lawrence Livermore National Laboratory,Cray Inc.,Y-MP8/864,United States,1992,8,2.144,2.667,0,0,Cray,Cray,166.7,Cray Vector,UNICOS,SMP,Research,Not Specified,,,North America,Americas
+407,Lawrence Livermore National Laboratory,Cray Inc.,Y-MP8/8128,United States,1991,8,2.144,2.667,0,0,Cray,Cray,166.7,Cray Vector,UNICOS,SMP,Research,Not Specified,,,North America,Americas
+409,Los Alamos National Laboratory,Cray Inc.,Y-MP8/864,United States,1992,8,2.144,2.667,0,0,Cray,Cray,166.7,Cray Vector,UNICOS,SMP,Research,Not Specified,,,North America,Americas
+410,Los Alamos National Laboratory,Cray Inc.,Y-MP8/8128,United States,1992,8,2.144,2.667,0,0,Cray,Cray,166.7,Cray Vector,UNICOS,SMP,Research,Not Specified,,,North America,Americas
+411,Merck & Co,Cray Inc.,Y-MP8I/8128,United States,1995,8,2.144,2.667,0,0,Cray,Cray,166.7,Cray Vector,UNICOS,SMP,Industry,Chemistry,,,North America,Americas
+412,NASA/Langley Research Center,Cray Inc.,Y-MP8E/8256,United States,1992,8,2.144,2.667,0,0,Cray,Cray,166.7,Cray Vector,UNICOS,SMP,Research,Not Specified,,,North America,Americas
+413,NASA/Lewis Research Center,Cray Inc.,Y-MP8E/8128,United States,1994,8,2.144,2.667,0,0,Cray,Cray,166.7,Cray Vector,UNICOS,SMP,Research,Not Specified,,,North America,Americas
+414,NASA/Marshall Space Flight Center,Cray Inc.,Y-MP8I/8128,United States,1995,8,2.144,2.667,0,0,Cray,Cray,166.7,Cray Vector,UNICOS,SMP,Research,Aerospace,,,North America,Americas
+415,NCAR (National Center for Atmospheric Research),Cray Inc.,Y-MP8/864,United States,1990,8,2.144,2.667,0,0,Cray,Cray,166.7,Cray Vector,UNICOS,SMP,Research,Weather and Climate Research,,,North America,Americas
+416,NCAR (National Center for Atmospheric Research),Cray Inc.,Y-MP8I/864,United States,1995,8,2.144,2.667,0,0,Cray,Cray,166.7,Cray Vector,UNICOS,SMP,Research,Weather and Climate Research,,,North America,Americas
+417,NOAA,Cray Inc.,Y-MP8/864,United States,1993,8,2.144,2.667,0,0,Cray,Cray,166.7,Cray Vector,UNICOS,SMP,Research,Weather and Climate Research,,,North America,Americas
+418,NOAA/Geophysical Fluid Dynamics Laboratory (GFDL),Cray Inc.,Y-MP8/864,United States,1994,8,2.144,2.667,0,0,Cray,Cray,166.7,Cray Vector,UNICOS,SMP,Research,Weather and Climate Research,,,North America,Americas
+419,National Cancer Institute,Cray Inc.,Y-MP8/8128,United States,1991,8,2.144,2.667,0,0,Cray,Cray,166.7,Cray Vector,UNICOS,SMP,Research,Chemistry,,,North America,Americas
+420,National Security Agency,Cray Inc.,Y-MP8/8256,United States,1993,8,2.144,2.667,0,0,Cray,Cray,166.7,Cray Vector,UNICOS,SMP,Classified,Not Specified,,,North America,Americas
+421,Naval Oceanographic Office (NAVOCEANO),Cray Inc.,Y-MP8/8128,United States,1991,8,2.144,2.667,0,0,Cray,Cray,166.7,Cray Vector,UNICOS,SMP,Research,Weather and Climate Research,,,North America,Americas
+422,Navy POPS Supercomputing Facility,Cray Inc.,Y-MP8E/8128,United States,1993,8,2.144,2.667,0,0,Cray,Cray,166.7,Cray Vector,UNICOS,SMP,Research,Weather and Climate Research,,,North America,Americas
+424,Rutherford Appleton Laboratory,Cray Inc.,Y-MP8I/8128,United Kingdom,1992,8,2.144,2.667,0,0,Cray,Cray,166.7,Cray Vector,UNICOS,SMP,Research,Not Specified,,,Northern Europe,Europe
+426,VW (Volkswagen AG),Cray Inc.,Y-MP8/8128,Germany,1995,8,2.144,2.667,0,0,Cray,Cray,166.7,Cray Vector,UNICOS,SMP,Industry,Automotive,,,Western Europe,Europe
+428,Fuji Denki Kagaku,Fujitsu,VPX240/10,Japan,1994,1,2.11,2.5,0,0,Fujitsu,Fujitsu,312.5,Fujitsu VP,Unix,Single Processor,Industry,Chemistry,,,Eastern Asia,Asia
+429,Geco-Prakla,Fujitsu,VPX240/20,United States,1993,1,2.11,2.5,0,0,Fujitsu,Fujitsu,312.5,Fujitsu VP,Unix,Single Processor,Industry,Geophysics,,,North America,Americas
+430,High Performance Computing Center,Fujitsu,VPX240/10,Canada,1992,1,2.11,2.5,0,0,Fujitsu,Fujitsu,312.5,Fujitsu VP,Unix,Single Processor,Research,Not Specified,,,North America,Americas
+433,Boeing,Intel,XP/S5,United States,1992,66,2.06,3.3,8000,0,Intel i860,Intel i860 Intel 80860,50.0,intel Paragon,OSF/1,MPP,Industry,Aerospace,,2-D mesh (torus),North America,Americas
+434,Intel CAD,Intel,XP/S5,United States,1994,66,2.06,3.3,8000,0,Intel i860,Intel i860 Intel 80860,50.0,intel Paragon,OSF/1,MPP,Vendor,Not Specified,,2-D mesh (torus),North America,Americas
+435,Intel SSD Development Centers,Intel,XP/S5,United States,1993,66,2.06,3.3,8000,0,Intel i860,Intel i860 Intel 80860,50.0,intel Paragon,OSF/1,MPP,Vendor,Not Specified,,2-D mesh (torus),North America,Americas
+436,Intel SSD Development Centers,Intel,XP/S5,United States,1993,66,2.06,3.3,8000,0,Intel i860,Intel i860 Intel 80860,50.0,intel Paragon,OSF/1,MPP,Vendor,Not Specified,,2-D mesh (torus),North America,Americas
+437,Intel SSD Development Centers,Intel,XP/S5,Germany,1994,66,2.06,3.3,8000,0,Intel i860,Intel i860 Intel 80860,50.0,intel Paragon,OSF/1,MPP,Vendor,Not Specified,,2-D mesh (torus),Western Europe,Europe
+438,Mitsubishi Electric Corporation,Intel,XP/S5,Japan,1994,66,2.06,3.3,8000,0,Intel i860,Intel i860 Intel 80860,50.0,intel Paragon,OSF/1,MPP,Industry,Electronics,,2-D mesh (torus),Eastern Asia,Asia
+439,NASA/Langley Research Center,Intel,XP/S5,United States,1992,66,2.06,3.3,8000,0,Intel i860,Intel i860 Intel 80860,50.0,intel Paragon,OSF/1,MPP,Research,Not Specified,,2-D mesh (torus),North America,Americas
+440,Oak Ridge National Laboratory,Intel,XP/S5,United States,1993,66,2.06,3.3,8000,0,Intel i860,Intel i860 Intel 80860,50.0,intel Paragon,OSF/1,MPP,Research,Not Specified,,2-D mesh (torus),North America,Americas
+441,Prudential Securities,Intel,XP/S5,United States,1993,66,2.06,3.3,8000,0,Intel i860,Intel i860 Intel 80860,50.0,intel Paragon,OSF/1,MPP,Industry,Not Specified,,2-D mesh (torus),North America,Americas
+442,Real World Computing (RWCP),Intel,XP/S5,Japan,1993,66,2.06,3.3,8000,0,Intel i860,Intel i860 Intel 80860,50.0,intel Paragon,OSF/1,MPP,Research,Not Specified,,2-D mesh (torus),Eastern Asia,Asia
+444,Commissariat a l'Energie Atomique (CEA)/CESTA,IBM,SP2/11,France,1995,11,2.06,2.926,0,0,Power,POWER2,66.5,IBM SP,AIX,MPP,Research,Not Specified,,,Western Europe,Europe
+446,INRIA - Sophia Antipolis,Kendall Square Research,KSR1-72,France,1994,72,2.03,2.88,0,0,KSR,KSR,20.0,KSR,KSR OS,MPP,Research,Not Specified,,,Western Europe,Europe
+447,Centre Cyceron,Cray Inc.,Y-MP J916/14-1024,France,1995,14,1.987,2.8,0,0,Cray,Cray,100.0,Cray Vector,UNICOS,SMP,Research,Not Specified,,,Western Europe,Europe
+449,Abott Labs,SGI,POWER CHALLENGE,United States,1995,8,1.955,2.4,1900,360,MIPS,MIPS R8000,75.0,SGI PowerChallenge,IRIX,SMP,Industry,Chemistry,,,North America,Americas
+450,BASF,SGI,POWER CHALLENGE,Germany,1994,8,1.955,2.4,1900,360,MIPS,MIPS R8000,75.0,SGI PowerChallenge,IRIX,SMP,Industry,Chemistry,,,Western Europe,Europe
+451,BMW AG,SGI,POWER CHALLENGE,Germany,1995,8,1.955,2.4,1900,360,MIPS,MIPS R8000,75.0,SGI PowerChallenge,IRIX,SMP,Industry,Automotive,,,Western Europe,Europe
+452,BMW AG/ Rolls-Royce,SGI,POWER CHALLENGE,Germany,1994,8,1.955,2.4,1900,360,MIPS,MIPS R8000,75.0,SGI PowerChallenge,IRIX,SMP,Industry,Aerospace,,,Western Europe,Europe
+453,Bayer AG,SGI,POWER CHALLENGE,Germany,1994,8,1.955,2.4,1900,360,MIPS,MIPS R8000,75.0,SGI PowerChallenge,IRIX,SMP,Industry,Chemistry,,,Western Europe,Europe
+454,Bayer AG,SGI,POWER CHALLENGE,Germany,1994,8,1.955,2.4,1900,360,MIPS,MIPS R8000,75.0,SGI PowerChallenge,IRIX,SMP,Industry,Chemistry,,,Western Europe,Europe
+455,Bristol-Myers Squibb,SGI,POWER CHALLENGE,United States,1995,8,1.955,2.4,1900,360,MIPS,MIPS R8000,75.0,SGI PowerChallenge,IRIX,SMP,Industry,Chemistry,,,North America,Americas
+456,Bristol-Myers Squibb,SGI,POWER CHALLENGE,United States,1995,8,1.955,2.4,1900,360,MIPS,MIPS R8000,75.0,SGI PowerChallenge,IRIX,SMP,Industry,Chemistry,,,North America,Americas
+457,Bristol-Myers Squibb,SGI,POWER CHALLENGE,United States,1995,8,1.955,2.4,1900,360,MIPS,MIPS R8000,75.0,SGI PowerChallenge,IRIX,SMP,Industry,Chemistry,,,North America,Americas
+458,CERCA,SGI,POWER CHALLENGE,Canada,1994,8,1.955,2.4,1900,360,MIPS,MIPS R8000,75.0,SGI PowerChallenge,IRIX,SMP,Research,Not Specified,,,North America,Americas
+459,Centre Etude Nucleaire,SGI,POWER CHALLENGE,France,1995,8,1.955,2.4,1900,360,MIPS,MIPS R8000,75.0,SGI PowerChallenge,IRIX,SMP,Research,Not Specified,,,Western Europe,Europe
+460,Coleman Research,SGI,POWER CHALLENGE,United States,1995,8,1.955,2.4,1900,360,MIPS,MIPS R8000,75.0,SGI PowerChallenge,IRIX,SMP,Research,Not Specified,,,North America,Americas
+461,DLR,SGI,POWER CHALLENGE,Germany,1995,8,1.955,2.4,1900,360,MIPS,MIPS R8000,75.0,SGI PowerChallenge,IRIX,SMP,Research,Aerospace,,,Western Europe,Europe
+462,DLR,SGI,POWER CHALLENGE,Germany,1995,8,1.955,2.4,1900,360,MIPS,MIPS R8000,75.0,SGI PowerChallenge,IRIX,SMP,Research,Weather and Climate Research,,,Western Europe,Europe
+463,Direction Construction,SGI,POWER CHALLENGE,France,1994,8,1.955,2.4,1900,360,MIPS,MIPS R8000,75.0,SGI PowerChallenge,IRIX,SMP,Classified,Defense,,,Western Europe,Europe
+464,Du Pont Merck,SGI,POWER CHALLENGE,United States,1995,8,1.955,2.4,1900,360,MIPS,MIPS R8000,75.0,SGI PowerChallenge,IRIX,SMP,Industry,Chemistry,,,North America,Americas
+465,Ford Motor Company,SGI,POWER CHALLENGE,United States,1995,8,1.955,2.4,1900,360,MIPS,MIPS R8000,75.0,SGI PowerChallenge,IRIX,SMP,Industry,Automotive,,,North America,Americas
+466,Geoscience (E),SGI,POWER CHALLENGE,United States,1995,8,1.955,2.4,1900,360,MIPS,MIPS R8000,75.0,SGI PowerChallenge,IRIX,SMP,Industry,Geophysics,,,North America,Americas
+467,Government,SGI,POWER CHALLENGE,United States,1995,8,1.955,2.4,1900,360,MIPS,MIPS R8000,75.0,SGI PowerChallenge,IRIX,SMP,Classified,Not Specified,,,North America,Americas
+468,Government,SGI,POWER CHALLENGE,United States,1994,8,1.955,2.4,1900,360,MIPS,MIPS R8000,75.0,SGI PowerChallenge,IRIX,SMP,Classified,Not Specified,,,North America,Americas
+469,Government,SGI,POWER CHALLENGE,United States,1994,8,1.955,2.4,1900,360,MIPS,MIPS R8000,75.0,SGI PowerChallenge,IRIX,SMP,Classified,Not Specified,,,North America,Americas
+470,Government,SGI,POWER CHALLENGE,United States,1994,8,1.955,2.4,1900,360,MIPS,MIPS R8000,75.0,SGI PowerChallenge,IRIX,SMP,Classified,Not Specified,,,North America,Americas
+471,Government,SGI,POWER CHALLENGE,United States,1995,8,1.955,2.4,1900,360,MIPS,MIPS R8000,75.0,SGI PowerChallenge,IRIX,SMP,Classified,Not Specified,,,North America,Americas
+472,Government,SGI,POWER CHALLENGE,United States,1994,8,1.955,2.4,1900,360,MIPS,MIPS R8000,75.0,SGI PowerChallenge,IRIX,SMP,Classified,Not Specified,,,North America,Americas
+473,Government,SGI,POWER CHALLENGE,United States,1994,8,1.955,2.4,1900,360,MIPS,MIPS R8000,75.0,SGI PowerChallenge,IRIX,SMP,Classified,Not Specified,,,North America,Americas
+474,Government,SGI,POWER CHALLENGE,United States,1995,8,1.955,2.4,1900,360,MIPS,MIPS R8000,75.0,SGI PowerChallenge,IRIX,SMP,Classified,Not Specified,,,North America,Americas
+475,Government,SGI,POWER CHALLENGE,United States,1994,8,1.955,2.4,1900,360,MIPS,MIPS R8000,75.0,SGI PowerChallenge,IRIX,SMP,Classified,Not Specified,,,North America,Americas
+476,Government,SGI,POWER CHALLENGE,United States,1994,8,1.955,2.4,1900,360,MIPS,MIPS R8000,75.0,SGI PowerChallenge,IRIX,SMP,Classified,Not Specified,,,North America,Americas
+477,Government,SGI,POWER CHALLENGE,United States,1994,8,1.955,2.4,1900,360,MIPS,MIPS R8000,75.0,SGI PowerChallenge,IRIX,SMP,Classified,Not Specified,,,North America,Americas
+478,Government,SGI,POWER CHALLENGE,United States,1994,8,1.955,2.4,1900,360,MIPS,MIPS R8000,75.0,SGI PowerChallenge,IRIX,SMP,Classified,Not Specified,,,North America,Americas
+479,Government,SGI,POWER CHALLENGE,United States,1994,8,1.955,2.4,1900,360,MIPS,MIPS R8000,75.0,SGI PowerChallenge,IRIX,SMP,Classified,Not Specified,,,North America,Americas
+480,Government,SGI,POWER CHALLENGE,United States,1994,8,1.955,2.4,1900,360,MIPS,MIPS R8000,75.0,SGI PowerChallenge,IRIX,SMP,Classified,Not Specified,,,North America,Americas
+481,Government,SGI,POWER CHALLENGE,United States,1995,8,1.955,2.4,1900,360,MIPS,MIPS R8000,75.0,SGI PowerChallenge,IRIX,SMP,Classified,Not Specified,,,North America,Americas
+482,Government,SGI,POWER CHALLENGE,United States,1994,8,1.955,2.4,1900,360,MIPS,MIPS R8000,75.0,SGI PowerChallenge,IRIX,SMP,Classified,Not Specified,,,North America,Americas
+483,Government,SGI,POWER CHALLENGE,United States,1994,8,1.955,2.4,1900,360,MIPS,MIPS R8000,75.0,SGI PowerChallenge,IRIX,SMP,Classified,Not Specified,,,North America,Americas
+484,Harvard Medical School,SGI,POWER CHALLENGE,United States,1995,8,1.955,2.4,1900,360,MIPS,MIPS R8000,75.0,SGI PowerChallenge,IRIX,SMP,Research,Medicine,,,North America,Americas
+486,Institute for Bioorganic Chemistry,SGI,POWER CHALLENGE,Poland,1995,8,1.955,2.4,1900,360,MIPS,MIPS R8000,75.0,SGI PowerChallenge,IRIX,SMP,Research,Chemistry,,,Eastern Europe,Europe
+487,MIPS Technologies Inc. - Silicon Graphics,SGI,POWER CHALLENGE,United States,1994,8,1.955,2.4,1900,360,MIPS,MIPS R8000,75.0,SGI PowerChallenge,IRIX,SMP,Vendor,Electronics,,,North America,Americas
+488,Mitsubishi Research Inst. K. K.,SGI,POWER CHALLENGE,Japan,1994,8,1.955,2.4,1900,360,MIPS,MIPS R8000,75.0,SGI PowerChallenge,IRIX,SMP,Industry,Research,,,Eastern Asia,Asia
+489,Mobil,SGI,POWER CHALLENGE,United States,1994,8,1.955,2.4,1900,360,MIPS,MIPS R8000,75.0,SGI PowerChallenge,IRIX,SMP,Industry,Geophysics,,,North America,Americas
+490,Motorola,SGI,POWER CHALLENGE,United States,1995,8,1.955,2.4,1900,360,MIPS,MIPS R8000,75.0,SGI PowerChallenge,IRIX,SMP,Industry,Electronics,,,North America,Americas
+495,Naval Research Laboratory (NRL),SGI,POWER Onyx,United States,1994,8,1.955,2.4,1900,360,MIPS,MIPS R8000,75.0,SGI PowerChallenge,IRIX,SMP,Research,Not Specified,,,North America,Americas
+496,Naval Research Laboratory (NRL),SGI,POWER CHALLENGE,United States,1994,8,1.955,2.4,1900,360,MIPS,MIPS R8000,75.0,SGI PowerChallenge,IRIX,SMP,Research,Not Specified,,,North America,Americas
+497,Naval Research Laboratory (NRL),SGI,POWER Onyx,United States,1994,8,1.955,2.4,1900,360,MIPS,MIPS R8000,75.0,SGI PowerChallenge,IRIX,SMP,Research,Defense,,,North America,Americas
+499,SGI,SGI,POWER CHALLENGE,United States,1995,8,1.955,2.4,1900,360,MIPS,MIPS R8000,75.0,SGI PowerChallenge,IRIX,SMP,Vendor,Hardware,,,North America,Americas
+500,Sandia National Laboratories,SGI,POWER CHALLENGE,United States,1995,8,1.955,2.4,1900,360,MIPS,MIPS R8000,75.0,SGI PowerChallenge,IRIX,SMP,Research,Not Specified,,,North America,Americas
