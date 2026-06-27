@@ -107,7 +107,7 @@ def plot_rmax_statistics_boxplot(csv_file="rmax_statistics.csv", output_file="rm
         Patch(facecolor=box_color, edgecolor=box_edge_color, alpha=0.7, label='Distribution (Q25-Q75)'),
         plt.Line2D([0], [0], color=median_color, linewidth=2.5, label='Median')
     ]
-    ax.legend(handles=legend_elements, loc='lower left', fontsize=11, framealpha=0.9)
+    ax.legend(handles=legend_elements, loc='lower left', fontsize=14, framealpha=1)
     
     # Tight layout
     plt.tight_layout()

@@ -163,7 +163,7 @@ def plot_accelerator_statistics(csv_file="accelerator_statistics.csv",
         Line2D([0], [0], marker='s', color='w', markerfacecolor=top_no_accel_color,
                markersize=11, markeredgecolor='black', markeredgewidth=1.5, label='#1 System (without accelerators)', linestyle='None')
     ]
-    ax.legend(handles=legend_elements, loc='upper left', fontsize=11, framealpha=0.9)
+    ax.legend(handles=legend_elements, loc='upper left', fontsize=12, framealpha=1)
     
     plt.tight_layout()
     plt.savefig(output_file, dpi=300, bbox_inches='tight')

@@ -107,7 +107,7 @@ def plot_segment_distribution(csv_file="segment_distribution.csv",
     ax.grid(True, alpha=0.3, linestyle='--', axis='y')
     
     # Add legend
-    ax.legend(loc='upper left', fontsize=11, framealpha=0.9, ncol=1)
+    ax.legend(loc='upper left', fontsize=14, framealpha=1, ncol=1)
     
     # Set y-axis to start at 0
     ax.set_ylim(bottom=0)
@@ -206,7 +206,7 @@ def plot_segment_percentage(csv_file="segment_distribution.csv",
     ax.grid(True, alpha=0.3, linestyle='--', axis='y')
     
     # Add legend
-    ax.legend(loc='upper left', fontsize=11, framealpha=0.9, ncol=1)
+    ax.legend(loc='upper left', fontsize=14, framealpha=1, ncol=1)
     
     # Set y-axis limits
     ax.set_ylim(0, 100)

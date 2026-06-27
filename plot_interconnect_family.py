@@ -1,185 +1,151 @@
 #
 # This script plots interconnect family counts over time using line plot.
-# It also outputs a stacked plot and a percentage distribution plot.
+# It also outputs a stacked plot, a percentage distribution plot, and a
+# single-column version sized for a two-column paper.
 #
-# To run script 'python3.6 plot_interconnect_family.py'
+# To run script 'python3 plot_interconnect_family.py'
 #
 
 import pandas as pd
 import matplotlib.pyplot as plt
 import numpy as np
 
-def plot_interconnect_families(csv_file='interconnect_family_counts_201006_to_202511-modified.csv'):
-    
-    # Read the data
+CSV_FILE = 'interconnect_family_counts_201006_to_202511-modified.csv'
+
+# Colorblind-friendly palette (Okabe-Ito)
+COLOR_MAP = {
+    'Infiniband': '#0173B2',       # Blue
+    'Gigabit Ethernet': '#DE8F05', # Orange
+    'Omnipath': '#029E73',         # Green
+    'Other': '#CC78BC',            # Purple
+}
+PALETTE = ['#0173B2', '#DE8F05', '#029E73', '#CC78BC']
+
+
+def plot_interconnect_families(csv_file=CSV_FILE):
     df = pd.read_csv(csv_file)
-    
-    # Convert Date column to datetime for better plotting
     df['Date'] = pd.to_datetime(df['Date'], format='%Y%m')
-    
-    # Set up the plot
+
     plt.figure(figsize=(14, 8))
-    
-    # Colorblind-friendly palette (Okabe-Ito color scheme)
-    colors = {
-        'Infiniband': '#0173B2',      # Blue
-        'Gigabit Ethernet': '#DE8F05', # Orange
-        'Omnipath': '#029E73',         # Green
-        'Other': '#CC78BC'             # Purple
-    }
-    
-    # Get all columns except Date
     interconnect_columns = [col for col in df.columns if col != 'Date']
-    
-    # Plot each interconnect family
     for column in interconnect_columns:
-        color = colors.get(column, '#000000')  # Default to black if not in palette
-        plt.plot(df['Date'], df[column], 
-                marker='o', 
-                linewidth=2.5, 
-                markersize=6,
-                label=column,
-                color=color,
-                alpha=0.9)
-    
-    # Customize the plot
+        color = COLOR_MAP.get(column, '#000000')
+        plt.plot(df['Date'], df[column], marker='o', linewidth=2.5,
+                 markersize=6, label=column, color=color, alpha=0.9)
+
     plt.xlabel('TOP500 List Year', fontsize=14, fontweight='bold')
     plt.ylabel('Count', fontsize=14, fontweight='bold')
-    
-    # Add grid for better readability
     plt.grid(True, alpha=0.3, linestyle='--', linewidth=0.7)
-    
-    # Format x-axis to show dates nicely
     plt.gcf().autofmt_xdate()
-    
-    # Add legend
     plt.legend(loc='best', fontsize=12, framealpha=0.9)
-    
-    # Tight layout to prevent label cutoff
     plt.tight_layout()
-    
-    # Save the plot
-    output_file = 'interconnect_family_plot.png'
-    plt.savefig(output_file, dpi=300, bbox_inches='tight')
-    print(f"Plot saved to: {output_file}")
-    
-    # Display the plot
-    plt.show()
-    
-def plot_stacked_area(csv_file='interconnect_family_counts_201006_to_202511-modified.csv'):
-    
-    # Read the data
+    plt.savefig('interconnect_family_plot.png', dpi=300, bbox_inches='tight')
+    print("Plot saved to: interconnect_family_plot.png")
+    plt.close()
+
+
+def plot_stacked_area(csv_file=CSV_FILE):
     df = pd.read_csv(csv_file)
-    
-    # Convert Date column to datetime
     df['Date'] = pd.to_datetime(df['Date'], format='%Y%m')
-    
-    # Set up the plot
+
     plt.figure(figsize=(14, 8))
-    
-    # Colorblind-friendly palette
-    colors = ['#0173B2', '#DE8F05', '#029E73', '#CC78BC']
-    
-    # Get all columns except Date
     interconnect_columns = [col for col in df.columns if col != 'Date']
-    
-    # Create stacked area plot
-    plt.stackplot(df['Date'], 
-                  [df[col] for col in interconnect_columns],
-                  labels=interconnect_columns,
-                  colors=colors,
-                  alpha=0.8)
-    
-    # Customize the plot
+    plt.stackplot(df['Date'], [df[col] for col in interconnect_columns],
+                  labels=interconnect_columns, colors=PALETTE, alpha=0.8)
+
     plt.xlabel('TOP500 List Year', fontsize=14, fontweight='bold')
     plt.ylabel('Count', fontsize=14, fontweight='bold')
-    
-    # Add grid
     plt.grid(True, alpha=0.3, linestyle='--', linewidth=0.7, axis='y')
-    
-    # Format x-axis
     plt.gcf().autofmt_xdate()
-    
-    # Add legend
     plt.legend(loc='upper left', fontsize=12, framealpha=0.9)
-    
-    # Tight layout
     plt.tight_layout()
-    
-    # Save the plot
-    output_file = 'interconnect_family_stacked_plot.png'
-    plt.savefig(output_file, dpi=300, bbox_inches='tight')
-    print(f"Stacked plot saved to: {output_file}")
-    
-    # Display the plot
-    plt.show()
+    plt.savefig('interconnect_family_stacked_plot.png', dpi=300, bbox_inches='tight')
+    print("Stacked plot saved to: interconnect_family_stacked_plot.png")
+    plt.close()
 
 
-def plot_percentage_distribution(csv_file='interconnect_family_counts_201006_to_202511.csv'):
-    
-    # Read the data
+def plot_percentage_distribution(csv_file=CSV_FILE):
     df = pd.read_csv(csv_file)
-    
-    # Convert Date column to datetime
     df['Date'] = pd.to_datetime(df['Date'], format='%Y%m')
-    
-    # Get all columns except Date
+
     interconnect_columns = [col for col in df.columns if col != 'Date']
-    
-    # Calculate percentages
     df_pct = df.copy()
     total = df[interconnect_columns].sum(axis=1)
     for col in interconnect_columns:
         df_pct[col] = (df[col] / total) * 100
-    
-    # Set up the plot
+
     plt.figure(figsize=(14, 8))
-    
-    # Colorblind-friendly palette
-    colors = ['#0173B2', '#DE8F05', '#029E73', '#CC78BC']
-    
-    # Create 100% stacked area plot
-    plt.stackplot(df_pct['Date'], 
-                  [df_pct[col] for col in interconnect_columns],
-                  labels=interconnect_columns,
-                  colors=colors,
-                  alpha=0.8)
-    
-    # Customize the plot
+    plt.stackplot(df_pct['Date'], [df_pct[col] for col in interconnect_columns],
+                  labels=interconnect_columns, colors=PALETTE, alpha=0.8)
+
     plt.xlabel('TOP500 List Year', fontsize=14, fontweight='bold')
     plt.ylabel('Percentage (%)', fontsize=14, fontweight='bold')
-    
-    # Set y-axis to 0-100
     plt.ylim(0, 100)
-    
-    # Add grid
     plt.grid(True, alpha=0.3, linestyle='--', linewidth=0.7, axis='y')
-    
-    # Format x-axis
     plt.gcf().autofmt_xdate()
-    
-    # Add legend
     plt.legend(loc='upper left', fontsize=12, framealpha=0.9)
-    
-    # Tight layout
     plt.tight_layout()
-    
-    # Save the plot
-    output_file = 'interconnect_family_percentage_plot.png'
+    plt.savefig('interconnect_family_percentage_plot.png', dpi=300, bbox_inches='tight')
+    print("Percentage plot saved to: interconnect_family_percentage_plot.png")
+    plt.close()
+
+
+def plot_column_width(csv_file=CSV_FILE, year_step=2, legend_loc='upper left',
+                      output_file='interconnect_family_column.png'):
+    """Single-column version for a two-column paper.
+
+    Rendered natively at ~column width (3.4in) with large proportional fonts so
+    axis labels, ticks, and legend stay readable when placed at \\columnwidth.
+    Uses explicit June-year ticks (thinned by `year_step`) rather than
+    autofmt_xdate, which over-labels and rotates at small sizes.
+    """
+    df = pd.read_csv(csv_file)
+    # Keep raw YYYYMM so we can build clean year ticks; also a datetime for x
+    raw_dates = df['Date'].astype(int).tolist()
+    x = np.arange(len(df))
+
+    interconnect_columns = [col for col in df.columns if col != 'Date']
+
+    fig, ax = plt.subplots(figsize=(3.4, 2.6))
+    for column in interconnect_columns:
+        color = COLOR_MAP.get(column, '#000000')
+        ax.plot(x, df[column].values, marker='o', linewidth=1.4,
+                markersize=2.5, label=column, color=color, alpha=0.9)
+
+    # Build x-ticks: one label per year at the June list, thinned by year_step
+    positions, labels, seen = [], [], set()
+    for i, d in enumerate(raw_dates):
+        y, m = d // 100, d % 100
+        if m == 6 and y not in seen:
+            positions.append(i)
+            labels.append(str(y))
+            seen.add(y)
+    keep = list(range(0, len(positions), year_step))
+    positions = [positions[i] for i in keep]
+    labels = [labels[i] for i in keep]
+
+    ax.set_xticks(positions)
+    ax.set_xticklabels(labels, rotation=0, fontsize=8)
+    ax.tick_params(axis='y', labelsize=8)
+
+    ax.set_xlabel('TOP500 List Year', fontsize=9, fontweight='bold')
+    ax.set_ylabel('Count', fontsize=9, fontweight='bold')
+    ax.grid(True, alpha=0.3, linestyle='--', axis='y', linewidth=0.6)
+    ax.legend(loc=legend_loc, fontsize=8, framealpha=0.9, markerscale=1.6,
+              handlelength=1.6, labelspacing=0.3, borderpad=0.4, ncol=1)
+
+    # Headroom so the legend clears the data
+    ymax = max(df[c].max() for c in interconnect_columns)
+    ax.set_ylim(0, ymax * 1.15)
+
+    plt.tight_layout(pad=0.3)
     plt.savefig(output_file, dpi=300, bbox_inches='tight')
-    print(f"Percentage plot saved to: {output_file}")
-    
-    # Display the plot
-    plt.show()
+    print(f"Column-width plot saved to: {output_file}")
+    plt.close(fig)
+
 
 if __name__ == "__main__":
-    csv_file = 'interconnect_family_counts_201006_to_202511-modified.csv'
-
-    # Generate line plot
-    plot_interconnect_families(csv_file)
-
-    # Generate stacked area plot
-    plot_stacked_area(csv_file)
-
-    # Generate percentage distribution plot
-    plot_percentage_distribution(csv_file)
+    plot_interconnect_families(CSV_FILE)
+    plot_stacked_area(CSV_FILE)
+    plot_percentage_distribution(CSV_FILE)
+    plot_column_width(CSV_FILE)
