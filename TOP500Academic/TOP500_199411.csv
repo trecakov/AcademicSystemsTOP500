@@ -1,0 +1,154 @@
+Rank,Site,Manufacturer,Computer,Country,Year,Processors,RMax,RPeak,Nmax,Nhalf,Processor Family,Processor,Proc. Frequency,System Family,Operating System,Architecture,Segment,Application Area,Interconnect Family,Interconnect,Region,Continent
+8,NCSA,Thinking Machines Corporation,CM-5/512,United States,1993,512,30.4,65.54,36864,16384,Sparc,SuperSPARC I,32.0,TMC CM5,CMOST,MPP,Academic,Not Specified,Fat Tree,"Hypercube, tree",North America,Americas
+11,University of Tokyo,Hitachi,S-3800/480,Japan,1993,4,27.5,32.0,15020,870,Hitachi,Hitachi,500.0,Hitachi Vector,VOS3/HAP/ES (IBM MVS compatible) and OSF/1,SMP,Academic,Not Specified,,,Eastern Asia,Asia
+13,Pittsburgh Supercomputing Center,Cray Inc.,T3D MC256-8,United States,1994,256,25.3,38.4,40960,4918,Alpha,Alpha EV4,149.9,Cray T3E/T3D,UNICOS,MPP,Academic,Not Specified,Cray Interconnect,3-D Torus,North America,Americas
+14,University of Edinburgh,Cray Inc.,T3D MC256-8,United Kingdom,1994,256,25.3,38.4,40960,4918,Alpha,Alpha EV4,149.9,Cray T3E/T3D,UNICOS,MPP,Academic,Not Specified,Cray Interconnect,3-D Torus,Northern Europe,Europe
+17,Tohoku University,NEC,SX-3/44R,Japan,1993,4,23.2,25.6,6400,830,NEC,NEC,400.0,NEC Vector,Super-UX,SMP,Academic,Not Specified,Crossbar,Multi-stage crossbar,Eastern Asia,Asia
+18,Institute for Materials Research/Tohoku University,Hitachi,S-3800/380,Japan,1994,3,21.3,24.0,15020,690,Hitachi,Hitachi,500.0,Hitachi Vector,VOS3/HAP/ES (IBM MVS compatible) and OSF/1,SMP,Academic,Not Specified,,,Eastern Asia,Asia
+21,Caltech,Intel,XP/S35,United States,1994,512,15.2,26.0,23000,9000,Intel i860,Intel i860 Intel 80860,50.0,intel Paragon,OSF/1,MPP,Academic,Not Specified,,2-D mesh (torus),North America,Americas
+26,Caltech,Intel,Delta,United States,1991,512,13.9,20.48,25000,7500,Intel i860,Intel i860 Intel 80860,40.0,intel Paragon,OSF/1,MPP,Academic,Not Specified,,,North America,Americas
+43,Pittsburgh Supercomputing Center,Cray Inc.,Y-MP C916/16512,United States,1994,16,13.7,15.238,10000,650,Cray,Cray,238.1,Cray Vector,UNICOS,SMP,Academic,Not Specified,,,North America,Americas
+46,Caltech/JPL,Cray Inc.,T3D SC128-2/264,United States,1994,128,12.8,19.2,20736,3408,Alpha,Alpha EV4,149.9,Cray T3E/T3D,UNICOS,MPP,Academic,Not Specified,Cray Interconnect,3-D Torus,North America,Americas
+50,Ecole Polytechnique Federale de Lausanne,Cray Inc.,T3D MC128-2,Switzerland,1994,128,12.8,19.2,20736,3408,Alpha,Alpha EV4,149.9,Cray T3E/T3D,UNICOS,MPP,Academic,Not Specified,Cray Interconnect,3-D Torus,Western Europe,Europe
+53,University of Alaska - ARSC,Cray Inc.,T3D MC128-2,United States,1994,128,12.8,19.2,20736,3408,Alpha,Alpha EV4,149.9,Cray T3E/T3D,UNICOS,MPP,Academic,Not Specified,Cray Interconnect,3-D Torus,North America,Americas
+54,Cornell Theory Center,IBM,SP2/512,United States,1994,512,12.1,136.19,27000,6200,Power,POWER2,66.5,IBM SP,AIX,MPP,Academic,Not Specified,,,North America,Americas
+60,UCSD/San Diego Supercomputer Center,Intel,XP/S30,United States,1993,400,11.9,20.0,0,0,Intel i860,Intel i860 Intel 80860,50.0,intel Paragon,OSF/1,MPP,Academic,Not Specified,,2-D mesh (torus),North America,Americas
+88,CNRS/IDRIS,Cray Inc.,Y-MP C98/8512,France,1993,8,6.85,7.619,0,0,Cray,Cray,238.1,Cray Vector,UNICOS,SMP,Academic,Not Specified,,,Western Europe,Europe
+95,UCSD/San Diego Supercomputer Center,Cray Inc.,Y-MP C98/8128,United States,1993,8,6.85,7.619,0,0,Cray,Cray,238.1,Cray Vector,UNICOS,SMP,Academic,Not Specified,,,North America,Americas
+98,Leibniz Rechenzentrum,Kendall Square Research,KSR2-110,Germany,1994,110,6.38,8.8,0,0,KSR,KSR,40.0,KSR,KSR OS,MPP,Academic,Not Specified,,,Western Europe,Europe
+103,Osaka University,NEC,SX-3/14R,Japan,1993,1,5.8,6.4,2816,282,NEC,NEC,400.0,NEC Vector,Super-UX,Single Processor,Academic,Not Specified,,,Eastern Asia,Asia
+105,University of California at Berkeley,Thinking Machines Corporation,CM-5/96,United States,1994,96,5.7,12.29,0,0,Sparc,SuperSPARC I,32.0,TMC CM5,CMOST,MPP,Academic,Not Specified,Fat Tree,"Hypercube, tree",North America,Americas
+106,Technische Universitaet Darmstadt,Fujitsu,VPP500/4,Germany,1994,4,5.6,6.4,7344,1250,Fujitsu,Fujitsu,100.0,Fujitsu VPP,UXP/V,MPP,Academic,Not Specified,Crossbar,Full distributed crossbar,Western Europe,Europe
+107,Universitaet Aachen/RWTH,Fujitsu,VPP500/4,Germany,1993,4,5.6,6.4,7344,1250,Fujitsu,Fujitsu,100.0,Fujitsu VPP,UXP/V,MPP,Academic,Not Specified,Crossbar,Full distributed crossbar,Western Europe,Europe
+108,Brandeis University,Thinking Machines Corporation,CM-2/64k,United States,1993,2048,5.2,14.0,26624,11000,TMC CM2,TMC CM2,7.0,TMC CM2,CMOST,SIMD,Academic,Not Specified,,,North America,Americas
+109,Florida State University,Thinking Machines Corporation,CM-2/64k,United States,1993,2048,5.2,14.0,26624,11000,TMC CM2,TMC CM2,7.0,TMC CM2,CMOST,SIMD,Academic,Not Specified,,,North America,Americas
+119,Cornell Theory Center,IBM,9076-004 SP1,United States,1993,64,4.8,8.0,26000,6000,Power,POWER1,62.5,IBM SP,AIX,MPP,Academic,Not Specified,,,North America,Americas
+124,Purdue University,Intel,XP/S10,United States,1994,144,4.45,7.2,0,0,Intel i860,Intel i860 Intel 80860,50.0,intel Paragon,OSF/1,MPP,Academic,Not Specified,,2-D mesh (torus),North America,Americas
+125,Hong Kong University of Science and Technology,Intel,XP/S10,Hong Kong,1994,140,4.33,7.0,0,0,Intel i860,Intel i860 Intel 80860,50.0,intel Paragon,OSF/1,MPP,Academic,Not Specified,,2-D mesh (torus),Eastern Asia,Asia
+128,Queensland Parallel Supercomputing Facility,IBM,SP2/22,Australia,1994,22,4.19,5.852,0,0,Power,POWER2,66.5,IBM SP,AIX,MPP,Academic,Not Specified,,,Australia and New Zealand,Oceania
+133,Kyoto University,Fujitsu,VP2600/20,Japan,1990,1,4.0,5.0,0,0,Fujitsu,Fujitsu,312.5,Fujitsu VP,Unix,Single Processor,Academic,Not Specified,,,Eastern Asia,Asia
+134,Kyushu University,Fujitsu,VP2600/10,Japan,1992,1,4.0,5.0,0,0,Fujitsu,Fujitsu,312.5,Fujitsu VP,Unix,Single Processor,Academic,Not Specified,,,Eastern Asia,Asia
+135,Nagoya University,Fujitsu,VP2600/10,Japan,1991,1,4.0,5.0,0,0,Fujitsu,Fujitsu,312.5,Fujitsu VP,Unix,Single Processor,Academic,Not Specified,,,Eastern Asia,Asia
+140,Universitaet Aachen/RWTH,Fujitsu,S600/20,Germany,1991,1,4.0,5.0,0,0,Fujitsu,Fujitsu,312.5,Fujitsu VP,Unix,Single Processor,Academic,Not Specified,,,Western Europe,Europe
+141,Universitaet Karlsruhe,Fujitsu,S600/20,Germany,1990,1,4.0,5.0,0,0,Fujitsu,Fujitsu,312.5,Fujitsu VP,Unix,Single Processor,Academic,Not Specified,,,Western Europe,Europe
+143,University of Michigan,Kendall Square Research,KSR2-64,United States,1994,64,3.911,5.12,9216,3840,KSR,KSR,40.0,KSR,KSR OS,MPP,Academic,Not Specified,,,North America,Americas
+144,University of Washington,Kendall Square Research,KSR2-64,United States,1994,64,3.911,5.12,9216,3840,KSR,KSR,40.0,KSR,KSR OS,MPP,Academic,Not Specified,,,North America,Americas
+147,Boston University,Thinking Machines Corporation,CM-5/64,United States,1993,64,3.8,8.192,13056,6016,Sparc,SuperSPARC I,32.0,TMC CM5,CMOST,MPP,Academic,Not Specified,Fat Tree,"Hypercube, tree",North America,Americas
+150,Japan Adv. Inst. of Science and Technology (JAIST),Thinking Machines Corporation,CM-5/64,Japan,1993,64,3.8,8.192,13056,6016,Sparc,SuperSPARC I,32.0,TMC CM5,CMOST,MPP,Academic,Not Specified,Fat Tree,"Hypercube, tree",Eastern Asia,Asia
+151,Oregon State University,Thinking Machines Corporation,CM-5/64,United States,1994,64,3.8,8.192,13056,6016,Sparc,SuperSPARC I,32.0,TMC CM5,CMOST,MPP,Academic,Not Specified,Fat Tree,"Hypercube, tree",North America,Americas
+153,University of Wisconsin,Thinking Machines Corporation,CM-5/64,United States,1993,64,3.8,8.192,13056,6016,Sparc,SuperSPARC I,32.0,TMC CM5,CMOST,MPP,Academic,Not Specified,Fat Tree,"Hypercube, tree",North America,Americas
+157,Universidad Autonoma Metropolitana,SGI,POWER CHALLENGE,Mexico,1994,18,3.715,5.4,14000,2000,MIPS,MIPS R8000,75.0,SGI PowerChallenge,IRIX,SMP,Academic,Not Specified,,,Central America,Americas
+158,Technische Universitaet Darmstadt,Fujitsu,S400/40,Germany,1991,2,3.624,5.0,10239,0,Fujitsu,Fujitsu,312.5,Fujitsu VP,Unix,Single Processor,Academic,Not Specified,,,Western Europe,Europe
+159,Universitaet Hannover / RRZN,Fujitsu,S400/40,Germany,1991,2,3.624,5.0,10239,0,Fujitsu,Fujitsu,312.5,Fujitsu VP,Unix,Single Processor,Academic,Not Specified,,,Western Europe,Europe
+161,NCSA,SGI,POWER CHALLENGE,United States,1994,16,3.624,4.8,14000,2000,MIPS,MIPS R8000,75.0,SGI PowerChallenge,IRIX,SMP,Academic,Not Specified,,,North America,Americas
+164,Texas A&M University,SGI,POWER CHALLENGE,United States,1994,16,3.624,4.8,14000,2000,MIPS,MIPS R8000,75.0,SGI PowerChallenge,IRIX,SMP,Academic,Not Specified,,,North America,Americas
+167,Cornell Theory Center,Kendall Square Research,KSR1-128,United States,1992,128,3.38,5.12,10240,1824,KSR,KSR,20.0,KSR,KSR OS,MPP,Academic,Not Specified,,,North America,Americas
+168,University of Cincinnati,Kendall Square Research,KSR1-128,United States,1993,128,3.38,5.12,10240,1824,KSR,KSR,20.0,KSR,KSR OS,MPP,Academic,Not Specified,,,North America,Americas
+170,FU Berlin,SGI,POWER CHALLENGE,Germany,1994,14,3.297,4.2,14000,2000,MIPS,MIPS R8000,75.0,SGI PowerChallenge,IRIX,SMP,Academic,Not Specified,,,Western Europe,Europe
+171,Technical University,SGI,POWER CHALLENGE,Netherlands,1994,14,3.297,4.2,14000,2000,MIPS,MIPS R8000,75.0,SGI PowerChallenge,IRIX,SMP,Academic,Not Specified,,,Western Europe,Europe
+172,University of Athens,SGI,POWER CHALLENGE,Greece,1994,14,3.297,4.2,14000,2000,MIPS,MIPS R8000,75.0,SGI PowerChallenge,IRIX,SMP,Academic,Not Specified,,,Southern Europe,Europe
+175,SARA (Stichting Academisch Rekencentrum),Cray Inc.,Y-MP C98/4256,Netherlands,1994,4,3.275,3.809,0,0,Cray,Cray,238.1,Cray Vector,UNICOS,SMP,Academic,Not Specified,,,Western Europe,Europe
+176,Universitaet Stuttgart,Cray Inc.,Y-MP C94/41024,Germany,1994,4,3.275,3.809,0,0,Cray,Cray,238.1,Cray Vector,UNICOS,SMP,Academic,Not Specified,,,Western Europe,Europe
+178,ETH,Intel,XP/S7,Switzerland,1994,103,3.21,5.15,0,0,Intel i860,Intel i860 Intel 80860,50.0,intel Paragon,OSF/1,MPP,Academic,Not Specified,,2-D mesh (torus),Western Europe,Europe
+179,University of Bergen,Intel,XP/S7,Norway,1994,103,3.21,5.15,0,0,Intel i860,Intel i860 Intel 80860,50.0,intel Paragon,OSF/1,MPP,Academic,Not Specified,,2-D mesh (torus),Northern Europe,Europe
+182,Ohio Supercomputer Center,Cray Inc.,T3D MCA32-8,United States,1994,32,3.2,4.8,14592,1616,Alpha,Alpha EV4,149.9,Cray T3E/T3D,UNICOS,MPP,Academic,Not Specified,Cray Interconnect,3-D Torus,North America,Americas
+183,Universitaet Stuttgart,Cray Inc.,T3D MCA32-8,Germany,1994,32,3.2,4.8,14592,1616,Alpha,Alpha EV4,149.9,Cray T3E/T3D,UNICOS,MPP,Academic,Not Specified,Cray Interconnect,3-D Torus,Western Europe,Europe
+184,Catholic University of Leuven,IBM,SP2/16,Belgium,1994,16,3.0,4.256,13500,0,Power,POWER2,66.5,IBM SP,AIX,MPP,Academic,Not Specified,,,Western Europe,Europe
+190,Jackson State University,SGI,POWER CHALLENGE,United States,1994,12,2.816,3.6,14000,2000,MIPS,MIPS R8000,75.0,SGI PowerChallenge,IRIX,SMP,Academic,Chemistry,,,North America,Americas
+196,Columbia Law School,Thinking Machines Corporation,CM-2/32k,United States,1994,1024,2.6,7.0,0,0,TMC CM2,TMC CM2,7.0,TMC CM2,CMOST,SIMD,Academic,Not Specified,,,North America,Americas
+209,Florida State University,Kendall Square Research,KSR1-96,United States,1993,96,2.535,3.84,0,0,KSR,KSR,20.0,KSR,KSR OS,MPP,Academic,Not Specified,,,North America,Americas
+215,Universitaet Kaiserslautern,SGI,POWER CHALLENGE,Germany,1994,10,2.45,3.0,14000,2000,MIPS,MIPS R8000,75.0,SGI PowerChallenge,IRIX,SMP,Academic,Not Specified,,,Western Europe,Europe
+216,University of Calgary,SGI,POWER CHALLENGE,Canada,1994,10,2.45,3.0,14000,2000,MIPS,MIPS R8000,75.0,SGI PowerChallenge,IRIX,SMP,Academic,Not Specified,,,North America,Americas
+219,University of Edinburgh,Thinking Machines Corporation,CM-200/16k,United Kingdom,1993,512,2.4,5.0,14848,5632,TMC CM2,TMC CM2,10.0,TMC CM2,CMOST,SIMD,Academic,Not Specified,,,Northern Europe,Europe
+220,Pennsylvania State University,IBM,9076-003 SP1,United States,1993,32,2.4,4.0,16000,4000,Power,POWER1,62.5,IBM SP,AIX,MPP,Academic,Not Specified,,,North America,Americas
+222,Universitaet Stuttgart,Intel,XP/S5,Germany,1992,72,2.25,3.6,0,0,Intel i860,Intel i860 Intel 80860,50.0,intel Paragon,OSF/1,MPP,Academic,Not Specified,,2-D mesh (torus),Western Europe,Europe
+235,Hong Kong Polytechnic University,Cray Inc.,Y-MP8/864,Hong Kong,1994,8,2.144,2.667,0,0,Cray,Cray,166.7,Cray Vector,UNICOS,SMP,Academic,Not Specified,,,Eastern Asia,Asia
+238,Leibniz Rechenzentrum,Cray Inc.,Y-MP8/8128,Germany,1992,8,2.144,2.667,0,0,Cray,Cray,166.7,Cray Vector,UNICOS,SMP,Academic,Not Specified,,,Western Europe,Europe
+250,Ohio Supercomputer Center,Cray Inc.,Y-MP8/864,United States,1989,8,2.144,2.667,0,0,Cray,Cray,166.7,Cray Vector,UNICOS,SMP,Academic,Not Specified,,,North America,Americas
+253,"Tohoku University, Institute of Fluid Science",Cray Inc.,Y-MP8/8128,Japan,1992,8,2.144,2.667,0,0,Cray,Cray,166.7,Cray Vector,UNICOS,SMP,Academic,Not Specified,,,Eastern Asia,Asia
+254,University of Texas,Cray Inc.,Y-MP8/864,United States,1990,8,2.144,2.667,0,0,Cray,Cray,166.7,Cray Vector,UNICOS,SMP,Academic,Not Specified,,,North America,Americas
+255,Centro de SupercomputaciÃ³n de Galicia,Fujitsu,VPX240/10,Spain,1992,1,2.11,2.5,0,0,Fujitsu,Fujitsu,312.5,Fujitsu VP,Unix,Single Processor,Academic,Not Specified,,,Southern Europe,Europe
+259,IFP (Institute Francais du Petrole),Fujitsu,VPX240/10,France,1992,1,2.11,2.5,0,0,Fujitsu,Fujitsu,312.5,Fujitsu VP,Unix,Single Processor,Academic,Geophysics,,,Western Europe,Europe
+260,University of Manchester,Fujitsu,VPX240/10,United Kingdom,1993,1,2.11,2.5,0,0,Fujitsu,Fujitsu,312.5,Fujitsu VP,Unix,Single Processor,Academic,Not Specified,,,Northern Europe,Europe
+275,CSC (Center for Scientific Computing),SGI,POWER Onyx,Finland,1994,8,2.0,2.4,14000,1000,MIPS,MIPS R8000,75.0,SGI PowerChallenge,IRIX,SMP,Academic,Not Specified,,,Northern Europe,Europe
+276,Hong Kong University of Science and Technology,SGI,POWER Onyx,Hong Kong,1994,8,2.0,2.4,14000,1000,MIPS,MIPS R8000,75.0,SGI PowerChallenge,IRIX,SMP,Academic,Not Specified,,,Eastern Asia,Asia
+285,Hosei University,Thinking Machines Corporation,CM-5E/32,Japan,1994,32,1.9,5.12,0,0,Sparc,SuperSPARC I,40.0,TMC CM5,CMOST,MPP,Academic,Not Specified,,,Eastern Asia,Asia
+286,Australian National University,Thinking Machines Corporation,CM-5/32,Australia,1993,32,1.9,4.096,9216,4096,Sparc,SuperSPARC I,32.0,TMC CM5,CMOST,MPP,Academic,Not Specified,Fat Tree,"Hypercube, tree",Australia and New Zealand,Oceania
+289,Columbia University,Thinking Machines Corporation,CM-5/32,United States,1993,32,1.9,4.096,9216,4096,Sparc,SuperSPARC I,32.0,TMC CM5,CMOST,MPP,Academic,Not Specified,Fat Tree,"Hypercube, tree",North America,Americas
+291,Duke University,Thinking Machines Corporation,CM-5/32,United States,1993,32,1.9,4.096,9216,4096,Sparc,SuperSPARC I,32.0,TMC CM5,CMOST,MPP,Academic,Not Specified,Fat Tree,"Hypercube, tree",North America,Americas
+301,Stanford University,Thinking Machines Corporation,CM-5/32,United States,1993,32,1.9,4.096,9216,4096,Sparc,SuperSPARC I,32.0,TMC CM5,CMOST,MPP,Academic,Not Specified,Fat Tree,"Hypercube, tree",North America,Americas
+303,Tokyo University - Medical Lab,Thinking Machines Corporation,CM-5/32,Japan,1993,32,1.9,4.096,9216,4096,Sparc,SuperSPARC I,32.0,TMC CM5,CMOST,MPP,Academic,Not Specified,Fat Tree,"Hypercube, tree",Eastern Asia,Asia
+304,Universidad Autonoma Metropolitana,Thinking Machines Corporation,CM-5/32,Mexico,1994,32,1.9,4.096,9216,4096,Sparc,SuperSPARC I,32.0,TMC CM5,CMOST,MPP,Academic,Not Specified,Fat Tree,"Hypercube, tree",Central America,Americas
+305,Universitaet Wuppertal,Thinking Machines Corporation,CM-5/32,Germany,1992,32,1.9,4.096,9216,4096,Sparc,SuperSPARC I,32.0,TMC CM5,CMOST,MPP,Academic,Not Specified,Fat Tree,"Hypercube, tree",Western Europe,Europe
+306,University of Adelaide,Thinking Machines Corporation,CM-5/32,Australia,1993,32,1.9,4.096,9216,4096,Sparc,SuperSPARC I,32.0,TMC CM5,CMOST,MPP,Academic,Not Specified,Fat Tree,"Hypercube, tree",Australia and New Zealand,Oceania
+307,University of Maryland,Thinking Machines Corporation,CM-5/32,United States,1993,32,1.9,4.096,9216,4096,Sparc,SuperSPARC I,32.0,TMC CM5,CMOST,MPP,Academic,Not Specified,Fat Tree,"Hypercube, tree",North America,Americas
+308,University of New South Wales,Thinking Machines Corporation,CM-5/32,Australia,1993,32,1.9,4.096,9216,4096,Sparc,SuperSPARC I,32.0,TMC CM5,CMOST,MPP,Academic,Not Specified,Fat Tree,"Hypercube, tree",Australia and New Zealand,Oceania
+309,University of Tennessee,Thinking Machines Corporation,CM-5/32,United States,1993,32,1.9,4.096,9216,4096,Sparc,SuperSPARC I,32.0,TMC CM5,CMOST,MPP,Academic,Not Specified,Fat Tree,"Hypercube, tree",North America,Americas
+310,Rutgers University,nCube,nCube2S,United States,1994,1024,1.9,3.686,21376,3193,nCube,nCube,25.0,nCube,SunOS,MPP,Academic,Not Specified,Crossbar,Multi-stage crossbar,North America,Americas
+311,Norwegian University of Science and Technology,Intel,XP/S5,Norway,1992,61,1.9,3.05,0,0,Intel i860,Intel i860 Intel 80860,50.0,intel Paragon,OSF/1,MPP,Academic,Not Specified,,2-D mesh (torus),Northern Europe,Europe
+312,Technische Universitaet Graz,Intel,XP/S5,Austria,1993,61,1.9,3.05,0,0,Intel i860,Intel i860 Intel 80860,50.0,intel Paragon,OSF/1,MPP,Academic,Not Specified,,2-D mesh (torus),Western Europe,Europe
+314,Caltech,Kendall Square Research,KSR1-64,United States,1992,64,1.838,2.56,9216,1536,KSR,KSR,20.0,KSR,KSR OS,MPP,Academic,Not Specified,,,North America,Americas
+318,University of Colorado - CAPP,Kendall Square Research,KSR1-64,United States,1992,64,1.838,2.56,9216,1536,KSR,KSR,20.0,KSR,KSR OS,MPP,Academic,Not Specified,,,North America,Americas
+319,University of Manchester,Kendall Square Research,KSR1-64,United Kingdom,1994,64,1.838,2.56,9216,1536,KSR,KSR,20.0,KSR,KSR OS,MPP,Academic,Not Specified,,,Northern Europe,Europe
+326,Hokkaido University,Hitachi,S-820/80,Japan,1989,1,1.817,3.0,0,0,Hitachi,Hitachi,250.0,Hitachi Vector,Unix,Single Processor,Academic,Not Specified,,,Eastern Asia,Asia
+327,Nihon University,Hitachi,S-820/80,Japan,1993,1,1.817,3.0,0,0,Hitachi,Hitachi,250.0,Hitachi Vector,Unix,Single Processor,Academic,Not Specified,,,Eastern Asia,Asia
+328,"University of California, Los Angeles",IBM,9076-003 SP1,United States,1994,24,1.8,3.0,0,0,Power,POWER1,62.5,IBM SP,AIX,MPP,Academic,Not Specified,,,North America,Americas
+329,Caltech/JPL,Intel,XP/S4,United States,1993,56,1.75,2.8,6000,0,Intel i860,Intel i860 Intel 80860,50.0,intel Paragon,OSF/1,MPP,Academic,Not Specified,,2-D mesh (torus),North America,Americas
+330,George Mason University,Intel,XP/S4,United States,1994,56,1.75,2.8,6000,0,Intel i860,Intel i860 Intel 80860,50.0,intel Paragon,OSF/1,MPP,Academic,Not Specified,,2-D mesh (torus),North America,Americas
+331,Hiroshima University,Intel,XP/S4,Japan,1993,56,1.75,2.8,6000,0,Intel i860,Intel i860 Intel 80860,50.0,intel Paragon,OSF/1,MPP,Academic,Not Specified,,2-D mesh (torus),Eastern Asia,Asia
+334,Rice University,Intel,XP/S4,United States,1993,56,1.75,2.8,6000,0,Intel i860,Intel i860 Intel 80860,50.0,intel Paragon,OSF/1,MPP,Academic,Not Specified,,2-D mesh (torus),North America,Americas
+337,State University of New York,Intel,XP/S4,United States,1994,56,1.75,2.8,6000,0,Intel i860,Intel i860 Intel 80860,50.0,intel Paragon,OSF/1,MPP,Academic,Not Specified,,2-D mesh (torus),North America,Americas
+338,University of Indiana,Intel,XP/S4,United States,1993,56,1.75,2.8,6000,0,Intel i860,Intel i860 Intel 80860,50.0,intel Paragon,OSF/1,MPP,Academic,Not Specified,,2-D mesh (torus),North America,Americas
+339,University of Melbourne,Intel,XP/S4,Australia,1993,56,1.75,2.8,6000,0,Intel i860,Intel i860 Intel 80860,50.0,intel Paragon,OSF/1,MPP,Academic,Not Specified,,2-D mesh (torus),Australia and New Zealand,Oceania
+340,University of Puerto Rico,Intel,XP/S4,United States,1994,56,1.75,2.8,6000,0,Intel i860,Intel i860 Intel 80860,50.0,intel Paragon,OSF/1,MPP,Academic,Not Specified,,2-D mesh (torus),North America,Americas
+341,University of South Carolina,Intel,XP/S4,United States,1992,56,1.75,2.8,6000,0,Intel i860,Intel i860 Intel 80860,50.0,intel Paragon,OSF/1,MPP,Academic,Not Specified,,2-D mesh (torus),North America,Americas
+343,Universitaet Erlangen,Hewlett-Packard,SPP1000/XA-48,Germany,1994,48,1.746,9.6,0,0,PA-RISC,PA-RISC PA-7100,100.0,HP Superdome,SPP-UX,MPP,Academic,Not Specified,Proprietary,Ring,Western Europe,Europe
+347,NCSA,Hewlett-Packard,SPP1000/XA-16,United States,1994,16,1.746,3.2,0,0,PA-RISC,PA-RISC PA-7100,100.0,HP Superdome,SPP-UX,MPP,Academic,Not Specified,Proprietary,Ring,North America,Americas
+351,Alabama Supercomputer Center,Cray Inc.,Y-MP C94A/264,United States,1994,2,1.703,1.905,0,0,Cray,Cray,238.1,Cray Vector,UNICOS,SMP,Academic,Not Specified,,,North America,Americas
+353,CINECA,Cray Inc.,Y-MP C94/2128,Italy,1993,2,1.703,1.905,0,0,Cray,Cray,238.1,Cray Vector,UNICOS,SMP,Academic,Not Specified,,,Southern Europe,Europe
+356,UNI-C,Cray Inc.,Y-MP C92A/2128,Denmark,1993,2,1.703,1.905,0,0,Cray,Cray,238.1,Cray Vector,UNICOS,SMP,Academic,Not Specified,,,Northern Europe,Europe
+365,University of Athens,Intel,XP/S4,Greece,1994,52,1.625,2.6,0,0,Intel i860,Intel i860 Intel 80860,50.0,intel Paragon,OSF/1,MPP,Academic,Not Specified,,2-D mesh (torus),Southern Europe,Europe
+372,University College Dublin,MasPar,MP-2216,Ireland,1994,2048,1.6,2.4,11264,1920,Maspar,Maspar,12.5,MasPar,Ultrix or VMS,SIMD,Academic,Not Specified,Crossbar,"2-D mesh, crossbar",Northern Europe,Europe
+373,University of Bergen,Hewlett-Packard,DECmpp SX 200,Norway,1993,2048,1.6,2.4,11264,1920,Maspar,Maspar,12.5,MasPar,Ultrix or VMS,SIMD,Academic,Not Specified,Crossbar,"2-D mesh, crossbar",Northern Europe,Europe
+374,University of Melbourne,MasPar,MP-2216,Australia,1993,2048,1.6,2.4,11264,1920,Maspar,Maspar,12.5,MasPar,Ultrix or VMS,SIMD,Academic,Not Specified,Crossbar,"2-D mesh, crossbar",Australia and New Zealand,Oceania
+376,Middle East Technical University,IBM,SP2/8,Turkey,1994,8,1.6,2.128,9500,0,Power,POWER2,66.5,IBM SP,AIX,MPP,Academic,Not Specified,,,Western Asia,Asia
+377,Rice University,IBM,SP2/8,United States,1993,8,1.6,2.128,9500,0,Power,POWER2,66.5,IBM SP,AIX,MPP,Academic,Not Specified,,,North America,Americas
+381,Fukuoka University,NEC,SX-3/11R,Japan,1994,1,1.5,1.6,2048,130,NEC,NEC,400.0,NEC Vector,Super-UX,Single Processor,Academic,Not Specified,,,Eastern Asia,Asia
+383,National Supercomputer Centre (NSC),Parsytec,GC PowerPlus/128,Sweden,1994,128,1.49,10.24,10240,0,Power,PowerPC 601,80.0,Parytec,PARIX,MPP,Academic,Not Specified,,,Northern Europe,Europe
+384,Technische Universitaet Chemnitz,Parsytec,GC PowerPlus/128,Germany,1994,128,1.49,10.24,10240,0,Power,PowerPC 601,80.0,Parytec,PARIX,MPP,Academic,Not Specified,,,Western Europe,Europe
+385,Universitaet Hamburg-Harburg,Parsytec,GC PowerPlus/128,Germany,1994,128,1.49,10.24,10240,0,Power,PowerPC 601,80.0,Parytec,PARIX,MPP,Academic,Not Specified,,,Western Europe,Europe
+387,University of Bergen,Parsytec,GC PowerPlus/64,Norway,1994,64,1.49,5.12,10240,0,Power,PowerPC 601,80.0,Parytec,PARIX,MPP,Academic,Not Specified,,,Northern Europe,Europe
+399,Stanford University,SGI,POWER CHALLENGE,United States,1994,6,1.467,1.8,14000,1000,MIPS,MIPS R8000,75.0,SGI PowerChallenge,IRIX,SMP,Academic,Not Specified,,,North America,Americas
+401,University of Chicago,SGI,POWER CHALLENGE,United States,1994,6,1.467,1.8,14000,1000,MIPS,MIPS R8000,75.0,SGI PowerChallenge,IRIX,SMP,Academic,Not Specified,,,North America,Americas
+402,University of Pennsylvania,SGI,POWER CHALLENGE,United States,1994,6,1.467,1.8,14000,1000,MIPS,MIPS R8000,75.0,SGI PowerChallenge,IRIX,SMP,Academic,Not Specified,,,North America,Americas
+403,University of Pennsylvania,SGI,POWER CHALLENGE,United States,1994,6,1.467,1.8,14000,1000,MIPS,MIPS R8000,75.0,SGI PowerChallenge,IRIX,SMP,Academic,Not Specified,,,North America,Americas
+404,University of Twente,SGI,POWER CHALLENGE,Netherlands,1994,6,1.467,1.8,14000,1000,MIPS,MIPS R8000,75.0,SGI PowerChallenge,IRIX,SMP,Academic,Not Specified,,,Western Europe,Europe
+407,Cornell Theory Center,IBM,ES 9000-900,United States,1993,6,1.457,2.664,0,0,IBM3090,IBM3090,111.1,IBM 3090,"MVS/ESA, VM/ESA, VSE/ESA, AIX/370",SMP,Academic,Not Specified,,,North America,Americas
+408,National Center for High Performance Computing,IBM,ES 9000-900,Taiwan,1992,6,1.457,2.664,0,0,IBM3090,IBM3090,111.1,IBM 3090,"MVS/ESA, VM/ESA, VSE/ESA, AIX/370",SMP,Academic,Not Specified,,,Eastern Asia,Asia
+409,"University of California, Los Angeles",IBM,ES 9000-900,United States,1993,6,1.457,2.664,0,0,IBM3090,IBM3090,111.1,IBM 3090,"MVS/ESA, VM/ESA, VSE/ESA, AIX/370",SMP,Academic,Not Specified,,,North America,Americas
+411,NCSA,Cray Inc.,CRAY-2s/4-128,United States,1988,4,1.406,1.952,0,0,Cray,Cray,243.9,Cray 2/3,UNICOS,SMP,Academic,Not Specified,,,North America,Americas
+423,Caltech,Intel,iPSC/860,United States,1990,64,1.4,2.56,9000,3500,Intel i860,Intel i860 Intel 80860,40.0,Intel IPSC,NX/2 node OS,MPP,Academic,Not Specified,Crossbar,Hypercube,North America,Americas
+428,UCSD/San Diego Supercomputer Center,Intel,iPSC/860,United States,1990,64,1.4,2.56,9000,3500,Intel i860,Intel i860 Intel 80860,40.0,Intel IPSC,NX/2 node OS,MPP,Academic,Not Specified,Crossbar,Hypercube,North America,Americas
+430,North Carolina Supercomputing Center (NCSC),Kendall Square Research,KSR1-48,United States,1992,48,1.35,1.92,0,0,KSR,KSR,20.0,KSR,KSR OS,MPP,Academic,Not Specified,,,North America,Americas
+431,University of Houston,Kendall Square Research,KSR1-48,United States,1992,48,1.35,1.92,0,0,KSR,KSR,20.0,KSR,KSR OS,MPP,Academic,Not Specified,,,North America,Americas
+433,NCTU,Hewlett-Packard,C4/XA-2,Taiwan,1994,2,1.335,1.62,0,0,Convex,Convex,135.0,Convex Vector,ConvexOS,SMP,Academic,Not Specified,,,Eastern Asia,Asia
+438,NRIC,Thinking Machines Corporation,CM-2/16k,Australia,1994,512,1.3,3.5,0,0,TMC CM2,TMC CM2,7.0,TMC CM2,CMOST,SIMD,Academic,Not Specified,,,Australia and New Zealand,Oceania
+439,University of Edinburgh,Meiko,CS/i860/64,United Kingdom,1990,64,1.3,2.56,8500,3500,Intel i860,Intel i860 Intel 80860,40.0,Meiko,SunOS,MPP,Academic,Not Specified,Crossbar,Multi-stage crossbar,Northern Europe,Europe
+442,Tokai University,NEC,SX-3/11,Japan,1992,1,1.3,1.375,2816,192,NEC,NEC,343.8,NEC Vector,Super-UX,Single Processor,Academic,Not Specified,,,Eastern Asia,Asia
+454,NCSA,SGI,Challenge,United States,1994,32,1.254,2.4,8000,2000,MIPS,MIPS R4400SC,150.0,SGI Challenge,IRIX,SMP,Academic,Not Specified,,,North America,Americas
+456,KTH - Royal Institute of Technology,Thinking Machines Corporation,CM-200/8k,Sweden,1991,256,1.2,2.5,10752,4096,TMC CM2,TMC CM2,10.0,TMC CM2,CMOST,SIMD,Academic,Not Specified,,,Northern Europe,Europe
+457,Oregon State University,Thinking Machines Corporation,CM-200/8k,United States,1994,256,1.2,2.5,10752,4096,TMC CM2,TMC CM2,10.0,TMC CM2,CMOST,SIMD,Academic,Not Specified,,,North America,Americas
+458,UNI-C,Thinking Machines Corporation,CM-200/8k,Denmark,1992,256,1.2,2.5,10752,4096,TMC CM2,TMC CM2,10.0,TMC CM2,CMOST,SIMD,Academic,Not Specified,,,Northern Europe,Europe
+461,National Center for High Performance Computing,IBM,9076-002 SP1,Taiwan,1994,16,1.2,2.0,12000,2300,Power,POWER1,62.5,IBM SP,AIX,MPP,Academic,Not Specified,,,Eastern Asia,Asia
+463,Stanford University,IBM,9076-002 SP1,United States,1994,16,1.2,2.0,12000,2300,Power,POWER1,62.5,IBM SP,AIX,MPP,Academic,Not Specified,,,North America,Americas
+472,Eidgenoessische Technische Hochschule,Cray Inc.,Y-MP4/464,Switzerland,1992,4,1.159,1.333,0,0,Cray,Cray,166.7,Cray Vector,UNICOS,SMP,Academic,Not Specified,,,Western Europe,Europe
+474,Florida State University,Cray Inc.,Y-MP4/432,United States,1990,4,1.159,1.333,0,0,Cray,Cray,166.7,Cray Vector,UNICOS,SMP,Academic,Not Specified,,,North America,Americas
+483,NCSA,Cray Inc.,Y-MP4/464,United States,1990,4,1.159,1.333,0,0,Cray,Cray,166.7,Cray Vector,UNICOS,SMP,Academic,Not Specified,,,North America,Americas
+484,National Supercomputer Centre (NSC),Cray Inc.,Y-MP8/464,Sweden,1993,4,1.159,1.333,0,0,Cray,Cray,166.7,Cray Vector,UNICOS,SMP,Academic,Not Specified,,,Northern Europe,Europe
+485,North Carolina Supercomputing Center (NCSC),Cray Inc.,Y-MP8/464,United States,1991,4,1.159,1.333,0,0,Cray,Cray,166.7,Cray Vector,UNICOS,SMP,Academic,Not Specified,,,North America,Americas
+486,Norwegian University of Science and Technology,Cray Inc.,Y-MP4/464,Norway,1992,4,1.159,1.333,0,0,Cray,Cray,166.7,Cray Vector,UNICOS,SMP,Academic,Not Specified,,,Northern Europe,Europe
+492,Universidad Nacional Autonoma de Mexico,Cray Inc.,Y-MP4/464,Mexico,1994,4,1.159,1.333,0,0,Cray,Cray,166.7,Cray Vector,UNICOS,SMP,Academic,Not Specified,,,Central America,Americas
+493,Universitaet Kaiserslautern,Cray Inc.,Y-MP4E/464,Germany,1993,4,1.159,1.333,0,0,Cray,Cray,166.7,Cray Vector,UNICOS,SMP,Academic,Not Specified,,,Western Europe,Europe
+495,ZIB/Konrad Zuse-Zentrum fuer Informationstechnik,Cray Inc.,Y-MP4/464,Germany,1994,4,1.159,1.333,0,0,Cray,Cray,166.7,Cray Vector,UNICOS,SMP,Academic,Not Specified,,,Western Europe,Europe
+498,Ecole Polytechnique Federale de Lausanne,Cray Inc.,Y-MP M94/4512,Switzerland,1993,4,1.114,1.333,0,0,Cray,Cray,166.7,Cray Vector,UNICOS,SMP,Academic,Not Specified,,,Western Europe,Europe
+500,University of Alaska - ARSC,Cray Inc.,Y-MP M98/41024,United States,1992,4,1.114,1.333,0,0,Cray,Cray,166.7,Cray Vector,UNICOS,SMP,Academic,Not Specified,,,North America,Americas
